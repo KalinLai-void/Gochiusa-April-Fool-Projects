@@ -1,0 +1,7 @@
+/* cms_blockシステム指定＜cms_block＞ */
+@import url("../../ptu/cms_block.css");
+@import url("../../cms_block/contents/common.css");
+@import url("../../cms_block/contents/wdt.css");
+@import url("../../cms_block/contents/tp3_mgn.css");
+@import url("../../common/width.css");
+@import url("../../cms_block/edit/font_edit.css");

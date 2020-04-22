@@ -1,0 +1,15 @@
+{
+  "name": "Twitter",
+  "short_name": "Twitter",
+  "start_url": "/?utm_source=web_app_manifest",
+  "display": "standalone",
+  "gcm_sender_id": "49625052041",
+  "gcm_user_visible_only": true,
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.twitter.android"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+/* ========================================
+フロート対策無効
+======================================== */
+#contents,#contents_main,#ext_area_01,#ext_area_02,.header_sa01,.header_sa02,.header_sa03,.header_sa04,.main_sa01,.main_sa02,.main_sa03,.main_sa04,.main_sa05,.main_sa06,.main_sa07,.main_sa08,.footer_sa01,.footer_sa02,.footer_sa03,.ti_b,#news_ct_h{min-height: 0;}
+
+#contents:after,#contents_main:after,#ext_area_01:after,#ext_area_02:after,.header_sa01:after,.header_sa02:after,.header_sa03:after,.header_sa04:after,.main_sa01:after,.main_sa02:after,.main_sa03:after,.main_sa04:after,.main_sa05:after,.main_sa06:after,.main_sa07:after,.main_sa08:after,.footer_sa01:after,.footer_sa02:after,.footer_sa03:after,.ti_b:after,#news_ct_h:after {content: none;display: none;clear: none;height: auto;overflow: visiable;}

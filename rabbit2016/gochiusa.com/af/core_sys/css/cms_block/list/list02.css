@@ -1,0 +1,65 @@
+/* 画像付き一覧リストテーブルレイアウト(画像上・テキスト下・全体に枠あり)
+---------------------------------------------*/
+/* 表本枠指定 */
+#list_02 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+min-height:400px;
+}
+
+/* リストテーブル基本枠指定 */
+#list_02 table {
+clear: both;
+width: 100%;
+margin: 0px auto;
+padding: 0px;
+border-collapse: separate;
+}
+
+/* リストテーブル箇所指定 */
+#list_02 td {
+margin: 0px;
+padding: 0px 0px 0px px;
+text-align: left;
+vertical-align: top;
+}
+
+#list_02 td.pr_no {
+border: none;
+}
+
+/* 専用装飾指定
+---------------------------------------------*/
+/* サムネイル指定 */
+#layout9 #list_02 .sm {
+width: 100%;
+margin: 0px;
+padding: 0px 24px 24px 0px;
+text-align: left;
+}
+#layout7 #list_02 .sm {
+width: 100%;
+margin: 0px;
+padding: 0px 0px 0px 0px;
+text-align: left;
+}
+#list_02 .sm {
+width: 100%;
+margin: 0px;
+padding: 0px 0px 24px 0px;
+text-align: center;
+}
+
+/* タイトル指定 */
+#list_02 .title {
+margin: 0px auto 0px auto;
+padding: 0px;
+font-weight: bold;
+}
+
+/* キャプション指定 */
+#list_02 .cap {
+margin: 0px auto 0px auto;
+padding: 0px;
+}

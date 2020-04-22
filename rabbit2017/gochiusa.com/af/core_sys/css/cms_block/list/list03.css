@@ -1,0 +1,67 @@
+/* 画像付き一覧リストテーブルレイアウト
+---------------------------------------------*/
+/* 表本枠指定 */
+#list_03 {
+clear: both;
+margin: 10px auto;
+padding: 0px;
+}
+
+/* リストテーブル基本枠指定 */
+#list_03 table {
+clear: both;
+width: 100%;
+margin: 0px auto;
+padding: 0px;
+color: #dddddd;
+border-collapse: collapse;
+}
+
+/* リストテーブル箇所指定 */
+#list_03 td {
+margin: 0px;
+padding: 5px 5px 10px 5px;
+text-align: left;
+vertical-align: top;
+border: 6px solid #ffffff;
+background: URL(../../../images/sys/list_bk_bg.gif) bottom repeat-x #555555;
+}
+
+#list_03 td.pr_no {
+border: none;
+background: #ffffff;
+}
+
+/* 専用装飾指定
+---------------------------------------------*/
+/* サムネイル指定 */
+#list_03 .sm {
+width: 100%;
+margin: 0px;
+padding: 5px 0px;
+background: #000000;
+text-align: center;
+}
+
+/* タイトル指定 */
+#list_03 .title {
+margin: 5px auto 0px auto;
+padding: 0px;
+font-weight: bold;
+}
+
+/* キャプション指定 */
+#list_03 .cap {
+margin: 5px auto 0px auto;
+padding: 0px;
+}
+
+/* リンク色指定(黒背景用) */
+#list_03 a {
+color: #ffffff;
+}
+
+#list_03 a:hover {
+color: #ffb400;
+}
+

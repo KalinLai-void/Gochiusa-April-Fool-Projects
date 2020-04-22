@@ -1,0 +1,28 @@
+.logo{
+position: relative;
+top:10px;
+left:10px;
+z-index:100;
+opacity:0;
+pointer-events:none;
+}
+
+.js-loaded .logo{
+animation: fadein 3s ease 6s 1 both;
+}
+
+.js-loaded .logo img{
+pointer-events: auto;
+transition:0.5s;
+width: 350px;
+}
+
+.js-opend .logo img:hover{
+cursor: url(../../images/main/top/comment_icon.png), pointer;
+  filter: drop-shadow(0 0 15px #fff);
+}
+
+@keyframes fadein{
+0% {opacity:0;}
+100% {opacity:1;}
+}

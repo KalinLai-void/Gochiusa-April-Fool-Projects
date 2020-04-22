@@ -1,0 +1,477 @@
+/* サブエリア指定
+============================================= */
+
+/* ヘッダー内サブエリア指定
+--------------------------------------------- */
+
+/* ======1行目指定====== */
+/* 1行目(外枠)指定 */
+.header_sa01 {
+clear: both;
+margin: 0px auto;
+padding: 0px 0px;
+}
+
+/* 1行目(全行)指定 */
+.header_sa01_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(左)指定 */
+.header_sa01_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(右)指定 */
+.header_sa01_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======2行目指定====== */
+/* 2行目(外枠)指定 */
+.header_sa02 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 2行目(全行)指定 */
+.header_sa02_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 2行目(左)指定 */
+.header_sa02_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 2行目(右)指定 */
+.header_sa02_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======3行目指定====== */
+/* 3行目(外枠)指定 */
+.header_sa03 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 3行目(全行)指定 */
+.header_sa03_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 3行目(左)指定 */
+.header_sa03_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 3行目(右)指定 */
+.header_sa03_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======4行目指定====== */
+/* 4行目(外枠)指定 */
+.header_sa04 {
+clear: both;
+margin: 0px auto;
+padding: 0px 0px;
+}
+
+/* 4行目(全行)指定 */
+.header_sa04_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 4行目(左)指定 */
+.header_sa04_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 4行目(右)指定 */
+.header_sa04_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+
+/* 拡張エリア01内サブエリア指定
+--------------------------------------------- */
+/* 1行目(全行)指定 */
+.ext_area_01_sa01_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(左)指定 */
+.ext_area_01_sa01_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(右)指定 */
+.ext_area_01_sa01_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+
+/* メイン内サブエリア指定
+--------------------------------------------- */
+
+/* ======1行目指定====== */
+/* 1行目(外枠)指定 */
+.main_sa01 {
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 1行目(全行)指定 */
+.main_sa01_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(左)指定 */
+.main_sa01_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(右)指定 */
+.main_sa01_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======2行目指定====== */
+/* 2行目(外枠)指定 */
+.main_sa02 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 2行目(全行)指定 */
+.main_sa02_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 2行目(左)指定 */
+.main_sa02_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 2行目(右)指定 */
+.main_sa02_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======3行目指定====== */
+/* 3行目(外枠)指定 */
+.main_sa03 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 3行目(全行)指定 */
+.main_sa03_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 3行目(左)指定 */
+.main_sa03_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 3行目(右)指定 */
+.main_sa03_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======4行目指定====== */
+/* 4行目(外枠)指定 */
+.main_sa04 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 4行目(全行)指定 */
+.main_sa04_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 4行目(左)指定 */
+.main_sa04_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 4行目(右)指定 */
+.main_sa04_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======5行目指定====== */
+/* 5行目(外枠)指定 */
+.main_sa05 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 5行目(全行)指定 */
+.main_sa05_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 5行目(左)指定 */
+.main_sa05_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 5行目(右)指定 */
+.main_sa05_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======6行目指定====== */
+/* 6行目(外枠)指定 */
+.main_sa06 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 6行目(全行)指定 */
+.main_sa06_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 6行目(左)指定 */
+.main_sa06_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 6行目(右)指定 */
+.main_sa06_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======7行目指定====== */
+/* 7行目(外枠)指定 */
+.main_sa07 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 7行目(全行)指定 */
+.main_sa07_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 7行目(左)指定 */
+.main_sa07_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 7行目(右)指定 */
+.main_sa07_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======8行目指定====== */
+/* 8行目(外枠)指定 */
+.main_sa08 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 8行目(全行)指定 */
+.main_sa08_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 8行目(左)指定 */
+.main_sa08_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 8行目(右)指定 */
+.main_sa08_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+
+/* 拡張エリア02内サブエリア指定
+--------------------------------------------- */
+/* 1行目(全行)指定 */
+.ext_area_02_sa01_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(左)指定 */
+.ext_area_02_sa01_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(右)指定 */
+.ext_area_02_sa01_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+
+/* フッタ内サブエリア指定
+--------------------------------------------- */
+
+/* ======1行目指定====== */
+/* 1行目(外枠)指定 */
+.footer_sa01 {
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 1行目(全行)指定 */
+.footer_sa01_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(左)指定 */
+.footer_sa01_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 1行目(右)指定 */
+.footer_sa01_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======2行目指定====== */
+/* 2行目(外枠)指定 */
+.footer_sa02 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 2行目(全行)指定 */
+.footer_sa02_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 2行目(左)指定 */
+.footer_sa02_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 2行目(右)指定 */
+.footer_sa02_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}
+
+/* ======3行目指定====== */
+/* 3行目(外枠)指定 */
+.footer_sa03 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 3行目(全行)指定 */
+.footer_sa03_c {
+margin: 0px;
+padding: 0px;
+}
+
+/* 3行目(左)指定 */
+.footer_sa03_l {
+float: left;
+margin: 0px;
+padding: 0px;
+}
+
+/* 3行目(右)指定 */
+.footer_sa03_r {
+float: right;
+margin: 0px;
+padding: 0px;
+}

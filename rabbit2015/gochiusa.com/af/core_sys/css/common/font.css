@@ -1,0 +1,555 @@
+/***************************************************
+font.css{
+
+1.テキスト要素基本スタイル(サイズのみ)
+2.テキスト要素基本スタイル(黒色)
+3.テキスト要素基本スタイル(赤色)
+4.テキスト要素基本スタイル(青色)
+5.テキスト要素基本スタイル(オレンジ色)
+6.テキスト要素基本スタイル(緑色)
+7.テキスト要素基本スタイル(白色)
+8.テキスト要素基本スタイル(薄灰色)
+9.テキスト要素基本スタイル(太字)
+
+}
+$font,v 2.0 2007/03/08 rei Exp $
+***************************************************/
+
+/* 1.テキスト要素基本スタイル(サイズのみ)
+---------------------------------------------*/
+.bb_b {
+font-size: 120%;
+font-weight: bold;
+}
+
+.bb_n {
+font-size: 120%;
+font-weight: normal;
+}
+
+.b_b {
+font-size: 100%;
+font-weight: bold;
+}
+
+.b_n {
+font-size: 100%;
+font-weight: normal;
+}
+
+.n_b {
+font-size: 80%;
+font-weight: bold;
+}
+
+.n_n {
+font-size: 80%;
+font-weight: normal;
+}
+
+.s_n {
+font-size: 70%;
+font-weight: normal;
+}
+
+.s_b {
+font-size: 70%;
+font-weight: bold;
+}
+
+.b {
+font-weight: bold;
+}
+
+.n {
+font-weight: normal;
+}
+
+/* 2.テキスト要素基本スタイル(黒色)
+---------------------------------------------*/
+.black {
+color: #484848;
+}
+
+.black_b {
+color: #484848;
+font-weight: bold;
+}
+
+.bb_b_bl {
+font-size: 120%;
+font-weight: bold;
+color: #484848;
+}
+
+.bb_n_bl {
+font-size: 120%;
+font-weight: normal;
+color: #484848;
+}
+
+.b_b_bl {
+font-size: 100%;
+font-weight: bold;
+color: #484848;
+}
+
+.b_n_bl {
+font-size: 100%;
+font-weight: normal;
+color: #484848;
+}
+
+.n_b_bl {
+font-size: 80%;
+font-weight: bold;
+color: #484848;
+}
+
+.n_n_bl {
+font-size: 80%;
+font-weight: normal;
+color: #484848;
+}
+
+.s_n_bl {
+font-size: 70%;
+font-weight: normal;
+color: #484848;
+}
+
+.s_b_bl {
+font-size: 70%;
+font-weight: bold;
+color: #484848;
+}
+
+.n_bl {
+font-weight: normal;
+color: #484848;
+}
+
+.b_bl {
+font-weight: bold;
+color: #484848;
+}
+
+/* 3.テキスト要素基本スタイル(赤色)
+---------------------------------------------*/
+.red {
+color: #D60000;
+}
+
+.red_b {
+color: #D60000;
+font-weight: bold;
+}
+
+.bb_b_red {
+font-size: 120%;
+font-weight: bold;
+color: #D60000;
+}
+
+.bb_n_red {
+font-size: 120%;
+font-weight: normal;
+color: #D60000;
+}
+
+.b_b_red {
+font-size: 100%;
+font-weight: bold;
+color: #D60000;
+}
+
+.b_n_red {
+font-size: 100%;
+font-weight: normal;
+color: #D60000;
+}
+
+.n_b_red {
+font-size: 80%;
+font-weight: bold;
+color: #D60000;
+}
+
+.n_n_red {
+font-size: 80%;
+font-weight: normal;
+color: #D60000;
+}
+
+.s_b_red {
+font-size: 70%;
+font-weight: bold;
+color: #D60000;
+}
+
+.s_n_red {
+font-size: 70%;
+font-weight: normal;
+color: #D60000;
+}
+
+.b_red {
+font-weight: bold;
+color: #D60000;
+}
+
+.n_red {
+font-weight: normal;
+color: #D60000;
+}
+
+/* 4.テキスト要素基本スタイル(青色)
+---------------------------------------------*/
+.blue {
+color: #1f8cd3;
+}
+
+.blue_b {
+color: #1f8cd3;
+font-weight: bold;
+}
+
+.bb_b_blue {
+font-size: 120%;
+font-weight: bold;
+color: #1f8cd3;
+}
+
+.bb_n_blue {
+font-size: 120%;
+font-weight: normal;
+color: #1f8cd3;
+}
+
+.b_b_blue {
+font-size: 100%;
+font-weight: bold;
+color: #1f8cd3;
+}
+
+.b_n_blue {
+font-size: 100%;
+font-weight: normal;
+color: #1f8cd3;
+}
+
+.n_b_blue {
+font-size: 80%;
+font-weight: bold;
+color: #1f8cd3;
+}
+
+.n_n_blue {
+font-size: 80%;
+font-weight: normal;
+color: #1f8cd3;
+}
+
+.s_b_blue {
+font-size: 70%;
+font-weight: bold;
+color: #1f8cd3;
+}
+
+.s_n_blue {
+font-size: 70%;
+font-weight: normal;
+color: #1f8cd3;
+}
+
+.b_blue {
+font-weight: bold;
+color: #1f8cd3;
+}
+
+.n_blue {
+font-weight: normal;
+color: #1f8cd3;
+}
+
+/* 5.テキスト要素基本スタイル(オレンジ色)
+---------------------------------------------*/
+.orange {
+color: #E29604;
+}
+
+.orange_b {
+color: #E29604;
+font-weight: bold;
+}
+
+.bb_b_or {
+font-size: 120%;
+font-weight: bold;
+color: #E29604;
+}
+
+.bb_n_or {
+font-size: 120%;
+font-weight: normal;
+color: #E29604;
+}
+
+.b_b_or {
+font-size: 100%;
+font-weight: bold;
+color: #E29604;
+}
+
+.b_n_or {
+font-size: 100%;
+font-weight: normal;
+color: #E29604;
+}
+
+.n_b_or {
+font-size: 80%;
+font-weight: bold;
+color: #E29604;
+}
+
+.n_n_or {
+font-size: 80%;
+font-weight: normal;
+color: #E29604;
+}
+
+.s_b_or {
+font-size: 70%;
+font-weight: bold;
+color: #E29604;
+}
+
+.s_n_or {
+font-size: 70%;
+font-weight: normal;
+color: #E29604;
+}
+
+.b_or {
+font-weight: bold;
+color: #E29604;
+}
+
+.n_or {
+font-weight: normal;
+color: #E29604;
+}
+
+/* 6.テキスト要素基本スタイル(緑色)
+---------------------------------------------*/
+.green {
+color: #188A28;
+}
+
+.green_b {
+color: #188A28;
+font-weight: bold;
+}
+
+.bb_b_gr {
+font-size: 120%;
+font-weight: bold;
+color: #188A28;
+}
+
+.bb_n_gr {
+font-size: 120%;
+font-weight: normal;
+color: #188A28;
+}
+
+.b_b_gr {
+font-size: 100%;
+font-weight: bold;
+color: #188A28;
+}
+
+.b_n_gr {
+font-size: 100%;
+font-weight: normal;
+color: #188A28;
+}
+
+.n_b_gr {
+font-size: 80%;
+font-weight: bold;
+color: #188A28;
+}
+
+.n_n_gr {
+font-size: 80%;
+font-weight: normal;
+color: #188A28;
+}
+
+.s_b_gr {
+font-size: 70%;
+font-weight: bold;
+color: #188A28;
+}
+
+.s_n_gr {
+font-size: 70%;
+font-weight: normal;
+color: #188A28;
+}
+
+.b_gr {
+font-weight: bold;
+color: #188A28;
+}
+
+.n_gr {
+font-weight: normal;
+color: #188A28;
+}
+
+/* 7.テキスト要素基本スタイル(白色)
+---------------------------------------------*/
+.white {
+color: #FFFFFF;
+}
+
+.white_b {
+color: #FFFFFF;
+font-weight: bold;
+}
+
+.bb_b_wh {
+font-size: 120%;
+font-weight: bold;
+color: #FFFFFF;
+}
+
+.bb_n_wh {
+font-size: 120%;
+font-weight: normal;
+color: #FFFFFF;
+}
+
+.b_b_wh {
+font-size: 100%;
+font-weight: bold;
+color: #FFFFFF;
+}
+
+.b_n_wh {
+font-size: 100%;
+font-weight: normal;
+color: #FFFFFF;
+}
+
+.n_b_wh {
+font-size: 80%;
+font-weight: bold;
+color: #FFFFFF;
+}
+
+.n_n_wh {
+font-size: 80%;
+font-weight: normal;
+color: #FFFFFF;
+}
+
+.s_b_wh {
+font-size: 70%;
+font-weight: bold;
+color: #FFFFFF;
+}
+
+.s_n_wh {
+font-size: 70%;
+font-weight: normal;
+color: #FFFFFF;
+}
+
+.b_wh {
+font-weight: bold;
+color: #FFFFFF;
+}
+
+.n_wh {
+font-weight: normal;
+color: #FFFFFF;
+}
+
+/* 8.テキスト要素基本スタイル(薄灰色)
+---------------------------------------------*/
+.glay {
+color: #999999;
+}
+
+.glay_b {
+color: #999999;
+font-weight: bold;
+}
+
+.bb_b_gl {
+font-size: 120%;
+font-weight: bold;
+color: #999999;
+}
+
+.bb_n_gl {
+font-size: 120%;
+font-weight: normal;
+color: #999999;
+}
+
+.b_b_gl {
+font-size: 100%;
+font-weight: bold;
+color: #999999;
+}
+
+.b_n_gl {
+font-size: 100%;
+font-weight: normal;
+color: #999999;
+}
+
+.n_b_gl {
+font-size: 80%;
+font-weight: bold;
+color: #999999;
+}
+
+.n_n_gl {
+font-size: 80%;
+font-weight: normal;
+color: #999999;
+}
+
+.s_b_gl {
+font-size: 70%;
+font-weight: bold;
+color: #999999;
+}
+
+.s_n_gl {
+font-size: 70%;
+font-weight: normal;
+color: #999999;
+}
+
+.b_gl {
+font-weight: bold;
+color: #999999;
+}
+
+.n_gl {
+font-weight: normal;
+color: #999999;
+}
+
+/* 9.テキスト要素基本スタイル(太字)
+---------------------------------------------*/
+.strong {
+font-weight: bold;
+}

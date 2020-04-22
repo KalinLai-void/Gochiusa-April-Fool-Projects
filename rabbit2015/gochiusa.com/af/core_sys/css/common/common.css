@@ -1,0 +1,70 @@
+/* 全体共通指定
+---------------------------------------------*/
+/* 強制フロート解除 */
+.clear {
+clear: both;
+margin: 0px;
+padding: 0px;
+}
+
+/* 強制フロート解除(解除時にマージン有りを指定) */
+.clear_margin {
+clear: both;
+margin: 0px;
+padding: 2px 0px;
+}
+
+/* その他共通指定
+---------------------------------------------*/
+/* 共通フォームボタン位置指定(右寄せ) */
+.bt {
+clear: both;
+margin: 5px;
+padding: 0px;
+text-align: right;
+}
+
+/* [ページのトップへ]ボタン位置指定 */
+.sc {
+clear: both;
+margin: 0px;
+padding: 10px 0px 5px 0px;
+text-align: right;
+}
+
+/* システムコメント掲載箇所(共通) */
+.alert {
+clear: both;
+width: auto;
+margin: 5px auto 0px auto;
+padding: 5px;
+text-align: left;
+background-color: #fff;
+border: 1px solid #ccc;
+}
+
+/* システムコメント掲載箇所(共通) */
+.alert02 {
+clear: both;
+width: 100%;
+margin: 5px auto 0px auto;
+padding: 0px;
+text-align: left;
+}
+
+/* 注意コメントエリア(共通・大) */
+.caution {
+width: auto;
+margin: 3px auto;
+padding: 50px 3px 50px 120px;
+text-align: left;
+background: url(../../images/sys/alert_ic02.gif) left center no-repeat;
+}
+
+/* 注意コメントエリア(50音リスト・小) */
+.caution02 {
+margin: 3px auto;
+padding: 30px 3px 30px 90px;
+text-align: left;
+background: url(../../images/sys/alert_ic01.gif) left center no-repeat;
+}

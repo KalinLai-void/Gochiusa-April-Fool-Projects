@@ -1,0 +1,13 @@
+#social_area{
+    display: flex;
+    width: 1200px;
+    margin: 16px auto;
+}
+
+#social_area>div{
+margin-right:16px;
+}
+
+.fb_iframe_widget span {
+vertical-align: top !important;
+}

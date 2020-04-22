@@ -1,0 +1,25 @@
+.tw_wrap {
+  background: url(../../images/main/top/twitter.png) no-repeat;
+  padding: 60px 25px 54px 21px;
+  opacity: 0;
+  position: absolute;
+  top: 643px;
+  right: 10px;
+  width: 256px;
+  z-index: 100;
+}
+
+.tw_area {
+
+}
+
+.js-loaded .tw_wrap {
+  animation: fadein 1s ease 7s 1 both;
+}
+
+.tw_inner {
+  height: 180px;
+  position: relative;
+  overflow: auto;
+}
+

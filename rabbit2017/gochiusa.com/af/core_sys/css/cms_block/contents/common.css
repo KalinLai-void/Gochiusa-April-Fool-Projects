@@ -1,0 +1,203 @@
+/***************************************************
+
+CMSブロック共通部分基本指定
+
+1.cmsエリア基本指定＜#cms_block＞
+	：cmsエリア外枠指定＜#cms_block＞
+	：ブロック外枠指定＜.block＞
+	：cmsエリア内テーブル指定＜table＞
+	：cmsエリア内画像リンク指定＜a.img_link＞
+	：cmsエリア内ブロック要素指定＜回り込み対策＞
+
+2.画像ブロック枠(画像+キャプション)指定＜img＞
+	：位置指定(画像・キャプ 左)＜.img_l＞
+	：位置指定(画像・キャプ 右)＜.img_r＞
+
+3.キャプション指定＜cap＞
+	：タイプ1.3用＜.cap＞
+	：タイプ2用＜.cap_l＞
+	：タイプ4用＜.tp4 .cap＞
+
+4.画像指定＜.ph＞
+
+5.本文指定＜read＞
+	：タイプ1で使用　回り込み時＜.read＞
+	：タイプ2で使用　画像の下に配置＜.read_c＞
+	：タイプ3で使用　画像右＜.read_l＞
+	：タイプ3で使用　画像左＜.read_r＞
+
+6.テーブル指定＜table＞
+	：タイプ4で使用　テーブル用指定＜.tp4＞
+
+***************************************************/
+
+/* 1.cmsエリア基本指定＜cms_block＞
+---------------------------------------------*/
+/* cmsエリア外枠指定 */
+#cms_block {
+margin: 0px auto;
+padding: 0px;
+text-align: left;
+}
+
+/* ブロック外枠指定 */
+#cms_block div.block {
+_height: 1px;
+clear: both;
+margin: 0px;
+padding: 0px;
+}
+
+/* cmsエリア内テーブル指定 */
+#cms_block table {
+font-size: 100%;
+}
+
+/* ブロック要素回り込み対策指定 */
+#cms_block p,
+#cms_block ul {
+_height: 1px;
+overflow: hidden;
+_overflow: visible;
+}
+
+/* リスト基本設定 */
+#cms_block ul {
+margin: 0px;
+padding: 0px;
+list-style: none;
+text-align: left;
+}
+
+#cms_block li {
+padding: ;
+}
+
+/* 行揃え指定 */
+/* 左揃え */
+#cms_block .lft {
+text-align: left;
+}
+
+/* 右揃え */
+#cms_block .rgt {
+text-align: right;
+}
+
+/* センター揃え */
+#cms_block .cnt {
+text-align: center;
+}
+
+/* 2.画像ブロック枠指定(画像+キャプション)＜img＞
+---------------------------------------------*/
+/* タイプ1.2で使用 */
+/* 画像ブロック(画像・キャプ 左)基本指定 */
+#cms_block div.img_l {
+margin: 0px 20px 10px 0px;
+padding: 0px;
+}
+
+/* 画像ブロック(画像・キャプ 右)位置指定 */
+#cms_block div.img_r {
+margin: 0px 0px 10px 20px;
+padding: 0px;
+}
+
+/* タイプ3で使用 */
+/* 画像ブロック(画像・キャプ 左)基本指定 */
+#cms_block div.img_l_tp3 {
+margin: 0px 0px 10px 0px;
+padding: 0px;
+}
+
+/* 画像ブロック(画像・キャプ 右)位置指定 */
+#cms_block div.img_r_tp3 {
+margin: 0px 0px 10px 0px;
+padding: 0px;
+}
+
+/* 画像ブロック 画像最大サイズ(回り込み解除) */
+#cms_block div.img_max {
+width: 100%;
+margin: 0px 0px 10px 0px;
+padding: 0px;
+overflow: hidden;
+}
+
+/* 3.キャプション指定＜cap＞
+---------------------------------------------*/
+/* キャプション指定(タイプ1.3用) */
+#cms_block div.cap {
+margin: 10px auto;
+padding: 0px;
+font-size: 100%;
+}
+
+/* キャプション指定(タイプ2用) */
+#cms_block div.cap_l {
+padding: 0px;
+}
+
+/* キャプション指定(タイプ4用) */
+#cms_block .tp4 .cap {
+margin: 0px auto;
+padding: 0px;
+text-align: left;
+}
+
+/* 4.画像指定＜ph＞
+---------------------------------------------*/
+/* タイプ1.2.3用 */
+/* 画像指定 */
+#cms_block div.ph {
+margin: 0px;
+padding: 0px;
+}
+
+/* 5.本文指定＜read＞
+---------------------------------------------*/
+/* タイプ1で使用 */
+/* 本文指定(回り込み時) */
+#cms_block div.read {
+margin: 0px;
+padding: 0px;
+}
+
+/* タイプ2で使用 */
+/* 本文指定(画像の下に配置) */
+#cms_block div.read_c {
+clear: both;
+margin: 5px 0px 0px 0px;
+padding: 0px;
+}
+
+/* タイプ3で使用 */
+/* 本文指定(画像左) */
+#cms_block div.read_l {
+padding: 0px;
+}
+
+/* 本文指定(画像右) */
+#cms_block div.read_r {
+padding: 0px;
+}
+
+/* 6.テーブル指定＜table＞
+---------------------------------------------*/
+/* タイプ4で使用 */
+/* テーブル指定 */
+#cms_block table.tp4 {
+width: 100%;
+margin: 0px auto;
+padding: 0px;
+border-collapse: collapse;
+font-size: 100%;
+}
+
+#cms_block .tp4 td {
+margin: 0px;
+padding: 3px 0px;
+text-align: center;
+vertical-align: top;
+}
