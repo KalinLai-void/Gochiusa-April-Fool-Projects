@@ -7,7 +7,7 @@
 
 不知道存活時間到什麼時候，有興趣的人歡迎自行載來玩看看
 
-我也有用Github Page架設網站，可以直接透過以下網址前往
+我也有用Github Page架設網站，可以直接透過以下網址前往（目前關閉中...）
 
 https://karlunlai-void.github.io/IsOrderTheRabbit/
 
