@@ -1,0 +1,43 @@
+.mill_wrap {
+  position:relative;
+  height: 500px;
+  filter: drop-shadow(0 0 5px #5186c8);
+}
+
+.mill_wrap.barTurning {
+  animation: barTurning 2s ease 0s infinite alternate;
+}
+
+@keyframes barTurning {
+  0% {  filter: brightness(1) drop-shadow(0 0 5px #5186c8);}
+  20% {  filter: brightness(1.3) drop-shadow(0 0 10px #5186c8);}
+  50% {  filter: brightness(1.2) drop-shadow(0 0 5px #5186c8);}
+  80% {  filter: brightness(1.3) drop-shadow(0 0 10px #5186c8);}
+  100% {  filter: brightness(1) drop-shadow(0 0 5px #5186c8);}
+}
+
+.mill_wrap img{
+  position:absolute;
+  margin:auto;
+  left:0;
+  right:0;
+}
+
+.mill_body img{
+  top: 14px;
+}
+
+.mill_drawer img{
+  top: 403px;
+  z-index:19;
+  width:292px;
+}
+
+.mill_bar img{
+  top: 55px;
+  left: 257px;
+}
+
+.mill_handle img{
+  left: 488px;
+}

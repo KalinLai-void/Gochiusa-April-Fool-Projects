@@ -1,0 +1,24 @@
+#twitter_area {
+margin: 0px;
+padding:45px 20px 0px 20px;
+text-align: left;
+width:241px;
+height:408px;
+background: URL(../../images/main/cont/special/16aprl/twitter_bg.png) top no-repeat;
+position:absolute;
+top:30px;
+right:5px;
+}
+
+#twitter_tl{
+margin:0px 0px 0px 0px;
+height:320px;
+width:100%;
+overflow:hidden;
+}
+#twitter_tl iframe{
+height:320px !important;
+min-height:320px !important;
+width:100% !important;
+min-width:100% !important;
+}

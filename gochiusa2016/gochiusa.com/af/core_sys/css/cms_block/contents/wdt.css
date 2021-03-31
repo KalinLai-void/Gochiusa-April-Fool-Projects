@@ -1,0 +1,485 @@
+/* タイプ4セル幅指定(パーセント) */
+.wdp01 {
+	width: 100%;
+	}
+.wdp02 {
+	width: 50%;
+	}
+.wdp03 {
+	width: 33%;
+	}
+.wdp04 {
+	width: 25%;
+	}
+.wdp05 {
+	width: 20%;
+	}
+.wdp06 {
+	width: 16%;
+	}
+.wdp07 {
+	width: 14%;
+	}
+.wdp08 {
+	width: 12%;
+	}
+.wdp09 {
+	width: 11%;
+	}
+.wdp010 {
+	width: 10%;
+	}
+.wdp011 {
+	width: 5%;
+	}
+
+
+/* 画像ブロック幅指定(左フロート) */
+.wdx100_l {
+	float: left;
+	width: 100px;
+	}
+.wdx110_l {
+	float: left;
+	width: 110px;
+	}
+.wdx120_l {
+	float: left;
+	width: 120px;
+	}
+.wdx130_l {
+	float: left;
+	width: 130px;
+	}
+.wdx140_l {
+	float: left;
+	width: 140px;
+	}
+.wdx150_l {
+	float: left;
+	width: 150px;
+	}
+.wdx160_l {
+	float: left;
+	width: 160px;
+	}
+.wdx170_l {
+	float: left;
+	width: 170px;
+	}
+.wdx180_l {
+	float: left;
+	width: 180px;
+	}
+.wdx190_l {
+	float: left;
+	width: 190px;
+	}
+.wdx200_l {
+	float: left;
+	width: 200px;
+	}
+.wdx210_l {
+	float: left;
+	width: 210px;
+	}
+.wdx220_l {
+	float: left;
+	width: 220px;
+	}
+.wdx230_l {
+	float: left;
+	width: 230px;
+	}
+.wdx240_l {
+	float: left;
+	width: 240px;
+	}
+.wdx250_l {
+	float: left;
+	width: 250px;
+	}
+.wdx260_l {
+	float: left;
+	width: 260px;
+	}
+.wdx270_l {
+	float: left;
+	width: 270px;
+	}
+.wdx280_l {
+	float: left;
+	width: 280px;
+	}
+.wdx290_l {
+	float: left;
+	width: 290px;
+	}
+.wdx300_l {
+	float: left;
+	width: 300px;
+	}
+.wdx310_l {
+	float: left;
+	width: 310px;
+	}
+.wdx320_l {
+	float: left;
+	width: 320px;
+	}
+.wdx330_l {
+	float: left;
+	width: 330px;
+	}
+.wdx340_l {
+	float: left;
+	width: 340px;
+	}
+.wdx350_l {
+	float: left;
+	width: 350px;
+	}
+.wdx360_l {
+	float: left;
+	width: 360px;
+	}
+.wdx370_l {
+	float: left;
+	width: 370px;
+	}
+.wdx380_l {
+	float: left;
+	width: 380px;
+	}
+.wdx390_l {
+	float: left;
+	width: 390px;
+	}
+.wdx400_l {
+	float: left;
+	width: 400px;
+	}
+.wdx410_l {
+	float: left;
+	width: 410px;
+	}
+.wdx420_l {
+	float: left;
+	width: 420px;
+	}
+.wdx430_l {
+	float: left;
+	width: 430px;
+	}
+.wdx440_l {
+	float: left;
+	width: 440px;
+	}
+.wdx450_l {
+	float: left;
+	width: 450px;
+	}
+.wdx460_l {
+	float: left;
+	width: 460px;
+	}
+.wdx470_l {
+	float: left;
+	width: 470px;
+	}
+.wdx480_l {
+	float: left;
+	width: 480px;
+	}
+.wdx490_l {
+	float: left;
+	width: 490px;
+	}
+.wdx500_l {
+	float: left;
+	width: 500px;
+	}
+.wdx510_l {
+	float: left;
+	width: 510px;
+	}
+.wdx520_l {
+	float: left;
+	width: 520px;
+	}
+.wdx530_l {
+	float: left;
+	width: 530px;
+	}
+.wdx540_l {
+	float: left;
+	width: 540px;
+	}
+.wdx550_l {
+	float: left;
+	width: 550px;
+	}
+.wdx560_l {
+	float: left;
+	width: 560px;
+	}
+.wdx570_l {
+	float: left;
+	width: 570px;
+	}
+.wdx580_l {
+	float: left;
+	width: 580px;
+	}
+.wdx590_l {
+	float: left;
+	width: 590px;
+	}
+.wdx600_l {
+	float: left;
+	width: 600px;
+	}
+.wdx610_l {
+	float: left;
+	width: 610px;
+	}
+.wdx620_l {
+	float: left;
+	width: 620px;
+	}
+.wdx630_l {
+	float: left;
+	width: 630px;
+	}
+.wdx640_l {
+	float: left;
+	width: 640px;
+	}
+.wdxmax_l {
+	width: 100%;
+	}
+
+/* 画像ブロック幅指定(左フロート) */
+.wdx100_r {
+	float: right;
+	width: 100px;
+	}
+.wdx110_r {
+	float: right;
+	width: 110px;
+	}
+.wdx120_r {
+	float: right;
+	width: 120px;
+	}
+.wdx130_r {
+	float: right;
+	width: 130px;
+	}
+.wdx140_r {
+	float: right;
+	width: 140px;
+	}
+.wdx150_r {
+	float: right;
+	width: 150px;
+	}
+.wdx160_r {
+	float: right;
+	width: 160px;
+	}
+.wdx170_r {
+	float: right;
+	width: 170px;
+	}
+.wdx180_r {
+	float: right;
+	width: 180px;
+	}
+.wdx190_r {
+	float: right;
+	width: 190px;
+	}
+.wdx200_r {
+	float: right;
+	width: 200px;
+	}
+.wdx210_r {
+	float: right;
+	width: 210px;
+	}
+.wdx220_r {
+	float: right;
+	width: 220px;
+	}
+.wdx230_r {
+	float: right;
+	width: 230px;
+	}
+.wdx240_r {
+	float: right;
+	width: 240px;
+	}
+.wdx250_r {
+	float: right;
+	width: 250px;
+	}
+.wdx260_r {
+	float: right;
+	width: 260px;
+	}
+.wdx270_r {
+	float: right;
+	width: 270px;
+	}
+.wdx280_r {
+	float: right;
+	width: 280px;
+	}
+.wdx290_r {
+	float: right;
+	width: 290px;
+	}
+.wdx300_r {
+	float: right;
+	width: 300px;
+	}
+.wdx310_r {
+	float: right;
+	width: 310px;
+	}
+.wdx320_r {
+	float: right;
+	width: 320px;
+	}
+.wdx330_r {
+	float: right;
+	width: 330px;
+	}
+.wdx340_r {
+	float: right;
+	width: 340px;
+	}
+.wdx350_r {
+	float: right;
+	width: 350px;
+	}
+.wdx360_r {
+	float: right;
+	width: 360px;
+	}
+.wdx370_r {
+	float: right;
+	width: 370px;
+	}
+.wdx380_r {
+	float: right;
+	width: 380px;
+	}
+.wdx390_r {
+	float: right;
+	width: 390px;
+	}
+.wdx400_r {
+	float: right;
+	width: 400px;
+	}
+.wdx410_r {
+	float: right;
+	width: 410px;
+	}
+.wdx420_r {
+	float: right;
+	width: 420px;
+	}
+.wdx430_r {
+	float: right;
+	width: 430px;
+	}
+.wdx440_r {
+	float: right;
+	width: 440px;
+	}
+.wdx450_r {
+	float: right;
+	width: 450px;
+	}
+.wdx460_r {
+	float: right;
+	width: 460px;
+	}
+.wdx470_r {
+	float: right;
+	width: 470px;
+	}
+.wdx480_r {
+	float: right;
+	width: 480px;
+	}
+.wdx490_r {
+	float: right;
+	width: 490px;
+	}
+.wdx500_r {
+	float: right;
+	width: 500px;
+	}
+.wdx510_r {
+	float: right;
+	width: 510px;
+	}
+.wdx520_r {
+	float: right;
+	width: 520px;
+	}
+.wdx530_r {
+	float: right;
+	width: 530px;
+	}
+.wdx540_r {
+	float: right;
+	width: 540px;
+	}
+.wdx550_r {
+	float: right;
+	width: 550px;
+	}
+.wdx560_r {
+	float: right;
+	width: 560px;
+	}
+.wdx570_r {
+	float: right;
+	width: 570px;
+	}
+.wdx580_r {
+	float: right;
+	width: 580px;
+	}
+.wdx590_r {
+	float: right;
+	width: 590px;
+	}
+.wdx600_r {
+	float: right;
+	width: 600px;
+	}
+.wdx610_r {
+	float: right;
+	width: 610px;
+	}
+.wdx620_r {
+	float: right;
+	width: 620px;
+	}
+.wdx630_r {
+	float: right;
+	width: 630px;
+	}
+.wdx640_r {
+	float: right;
+	width: 640px;
+	}
+.wdxmax_r {
+	width: 100%;
+	}

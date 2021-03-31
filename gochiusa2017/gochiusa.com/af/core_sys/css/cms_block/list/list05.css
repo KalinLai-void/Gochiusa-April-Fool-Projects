@@ -1,0 +1,96 @@
+/* 一覧リストテーブルレイアウト(テキスト一覧・サムネイル付)
+---------------------------------------------*/
+/* 表本枠指定 */
+#list_05 {
+clear: both;
+margin: 20px auto;
+padding: 0px;
+}
+
+#list_05 p {
+margin: 0px;
+padding: 0px;
+}
+
+#list_05 div.list_05_in {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+#list_05 div.list_05_in p {
+margin: 0px;
+padding: 0px;
+}
+
+/* リストテーブル基本枠指定 */
+#list_05 table {
+width: 100%;
+margin: 0px auto;
+padding: 0px;
+border-collapse: collapse;
+}
+
+#list_05 div.list_05_in table {
+width: 100%;
+margin: 0px auto;
+padding: 0px;
+border-collapse: collapse;
+}
+
+/* セル指定 */
+#list_05 td.out_base {
+margin: 0px;
+padding: 0px;
+text-align: left;
+vertical-align: top;
+border-top: 1px solid #cccccc;
+border-bottom: 1px solid #cccccc;
+}
+
+#list_05 div.list_05_in td {
+margin: 0px;
+padding: 10px;
+text-align: left;
+vertical-align: top;
+}
+
+#list_05 div.list_05_in td.in_title {
+margin: 0px;
+padding: 5px 0px 0px 10px;
+}
+
+/* 本文セル指定 */
+#list_05 div.list_05_in td.read {
+width: 100%;
+margin: 0px;
+padding: 10px;
+text-align: left;
+}
+
+/* 日付セル指定 */
+#list_05 div.list_05_in div.day {
+width: 80px;
+margin: 0px;
+padding: 2px 10px 2px 0px;
+text-align: left;
+}
+
+/* 専用装飾指定
+---------------------------------------------*/
+/* タイトル指定 */
+#list_05 div.list_05_in .title {
+margin: 0px;
+padding: 0px;
+font-weight: bold;
+}
+
+/* 行背景色指定
+行背景色を交互にする際に利用します */
+#list_05 tr.bg_a {
+background: #fff;
+}
+
+#list_05 tr.bg_b {
+background: #f5f5f5;
+}

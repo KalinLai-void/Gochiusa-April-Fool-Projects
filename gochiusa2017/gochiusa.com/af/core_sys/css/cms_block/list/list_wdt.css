@@ -1,0 +1,34 @@
+/* 幅指定(パーセント) */
+#cms_block .l_wdp01 {
+	width: 100%;
+	}
+#cms_block .l_wdp02 {
+	width: 50%;
+	}
+#cms_block .l_wdp03 {
+	width: 33%;
+	}
+#cms_block .l_wdp04 {
+	width: 25%;
+	}
+#cms_block .l_wdp05 {
+	width: 20%;
+	}
+#cms_block .l_wdp06 {
+	width: 16%;
+	}
+#cms_block .l_wdp07 {
+	width: 14%;
+	}
+#cms_block .l_wdp08 {
+	width: 12%;
+	}
+#cms_block .l_wdp09 {
+	width: 11%;
+	}
+#cms_block .l_wdp010 {
+	width: 10%;
+	}
+#cms_block .l_wdp011 {
+	width: 5%;
+	}

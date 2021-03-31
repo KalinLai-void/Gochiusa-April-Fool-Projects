@@ -1,0 +1,166 @@
+/* 1.全体共通指定
+---------------------------------------------*/
+/* 全体基本指定 */
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+img{border:0; vertical-align:top;}
+img.lp {}
+li{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-size:100%;text-align:left;}
+sup {vertical-align:text-top;}
+sub {vertical-align:text-bottom;}
+
+/* input 
+input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;vertical-align:middle;margin:2px;padding:0px;}
+input.txt,textarea.txt {margin:2px;padding:3px;border:1px solid #999;vertical-align:middle;font-size:14px;color:#333;}
+select {margin:2px;padding:1px;border:1px solid #999;vertical-align:middle;font-size:14px;color:#333;}
+*/
+
+body {
+padding: 0px;
+margin: 0px;
+text-align: center;
+color: #43211a;
+line-height: 1.7em;
+font-size: 13px;
+}
+
+/* 基本リンク色指定 */
+
+a:link {
+color: #dc143c;
+text-decoration:underline;
+}
+
+a:visited {
+color: #dc143c;
+}
+
+a:hover {
+color: #dc143c;
+text-decoration:underline;
+}
+
+a:active {
+color: #0e6fbc;
+}
+
+/* 2.基本エリア指定
+---------------------------------------------*/
+/* 全体外枠指定 */
+#wrapper {
+margin: 0px auto;
+padding: 0px 0px 0px 0px;
+padding: 0px;background: URL(../../../../images/main/cont/w980.gif) center top repeat-y;
+
+}
+#wrapper_inner {
+margin: 0px auto;
+background-attachment:fixed;
+}
+
+/* コンテンツ全体枠指定 */
+#container {
+margin: 0px auto;
+padding: 0px;
+background: URL(../../../../images/main/wrapper_bg.gif) top repeat-x;
+}
+
+/* ヘッダー枠指定 */
+#header {
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 段組全体枠指定 */
+#contents {
+clear: both;
+width: 980px;
+margin: 0px auto 0px auto;
+padding: 0px 0px 0px 0px;
+position:relative;
+min-height:775px;
+}
+#contents_inner {
+clear: both;
+width: 960px;
+margin: 0px auto;
+padding: 0px 0px 0px 0px;
+overflow:hidden;
+}
+
+/* コンテンツ・サイド グループ枠指定 */
+#contents_main {
+clear: both;
+margin: 0px auto 0px auto;
+padding: 103px 0px 0px 0px;
+width:755px;
+}
+#contents_main_inner {
+width:560px;
+clear: both;
+margin: 0px;
+padding: 0px;
+float:left;
+}
+
+/* メインエリア部分指定 */
+#main {
+margin: 0px;
+padding: 0px;
+_overflow: hidden;
+word-break: break-all;
+}
+
+/* サイド指定 */
+#side {
+width: 270px;
+height:100%;
+margin: 0px;
+padding: 0px;
+text-align: center;
+position:absolute;
+top:0px;
+left:25px;
+z-index:99;
+}
+
+/* フッター枠指定 */
+#footer {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+background: URL(../../../../images/main/cont/special/16aprl/cont_footer_bg.png) top center ;
+background-size:cover;
+min-height:100px;
+width:100%;
+bottom:0px;
+left;0px;
+}
+#footer_inner {
+width:920px;
+clear: both;
+margin: 0px auto;
+padding: 20px 0px 0px 0px;
+}
+
+/* 拡張エリア01枠指定 */
+#ext_area_01 {
+clear: both;
+margin: 0px auto 0px auto;
+padding: 0px;
+}
+
+/* 拡張エリア02枠指定 */
+#ext_area_02 {
+width:960px;
+clear: both;
+margin: 0px auto;
+padding: 20px 0px 20px 30px;
+}
+
+#wrapper{background:URL(../../../../images/main/cont/special/16aprl/cont_base_bg.jpg) center top repeat-x !important;}
+#contents_main{padding: 25px 0px 0px 0px !important; width:700px !important;}
+#contents_main_inner{width:650px !important;}
+.main_sa01{display:none;}
+.sc{display:none;}

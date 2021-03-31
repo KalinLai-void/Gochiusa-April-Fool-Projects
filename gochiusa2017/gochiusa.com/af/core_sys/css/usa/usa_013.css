@@ -1,0 +1,13 @@
+.main_sa03 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.medal_wrap img {
+transform: translate(0,-50px);
+}
+
+.medal_wrap img.medal_drop{
+transform: translate(0);
+transition: 2s;
+}

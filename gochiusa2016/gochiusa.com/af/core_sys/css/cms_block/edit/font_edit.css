@@ -1,0 +1,239 @@
+/* 1.フォントサイズ
+---------------------------------------------*/
+.efssm {
+font-size: 80%;
+}
+.efsnm {
+font-size: 100%;
+}
+.efsbg {
+font-size: 120%;
+}
+.efsbbg {
+font-size: 140%;
+}
+.efsbbbg {
+font-size: 160%;
+}
+
+/* 2.フォントウェイト
+---------------------------------------------*/
+.efwbl {
+font-weight: bold;
+}
+.efwnm {
+font-weight: normal;
+}
+
+/* 3.フォントスタイル
+---------------------------------------------*/
+.eftit {
+font-style: italic;
+}
+.eftnm {
+font-style: normal;
+}
+
+/* 4.アンダーライン
+---------------------------------------------*/
+.efdul {
+text-decoration: underline;
+}
+.efdnm {
+text-decoration: none;
+}
+
+/* 5.行揃え
+---------------------------------------------*/
+.etalft {
+text-align: left;
+}
+.etacnt {
+text-align: center;
+}
+.etargt {
+text-align: right;
+}
+
+/* 6.フォントカラー
+---------------------------------------------*/
+.efcbr01 {
+color: #5d060c;
+}
+.efcbr02 {
+color: #6f3a2c;
+}
+.efcbr03 {
+color: #82665a;
+}
+.efcbr04 {
+color: #811c20;
+}
+.efcbr05 {
+color: #9a5641;
+}
+.efcbr06 {
+color: #b58e7d;
+}
+.efcen01 {
+color: #ae0000;
+}
+.efcpp01 {
+color: #b46288;
+}
+.efcpp02 {
+color: #d4a5bb;
+}
+.efcpp03 {
+color: #920683;
+}
+.efcpp04 {
+color: #b250a8;
+}
+.efcpp05 {
+color: #d39bcd;
+}
+.efcpk01 {
+color: #ff0078;
+}
+.efcpk02 {
+color: #ff5998;
+}
+.efcpk03 {
+color: #ff99c4;
+}
+.efcre01 {
+color: #e70012;
+}
+.efcre02 {
+color: #ee4c59;
+}
+.efcre03 {
+color: #f599a0;
+}
+.efcor01 {
+color: #f28300;
+}
+.efcor02 {
+color: #f6a84c;
+}
+.efcor03 {
+color: #facd99;
+}
+.efckh01 {
+color: #977311;
+}
+.efckh02 {
+color: #b69d58;
+}
+.efckh03 {
+color: #d5c7a0;
+}
+.efcyl01 {
+color: #ffde00;
+}
+.efcyl02 {
+color: #ffe84c;
+}
+.efcyl03 {
+color: #fff299;
+}
+.efcyg01 {
+color: #7fba00;
+}
+.efcyg02 {
+color: #a5cf4c;
+}
+.efcyg03 {
+color: #cce399;
+}
+.efcgr01 {
+color: #009b04;
+}
+.efcgr02 {
+color: #4cb94f;
+}
+.efcgr03 {
+color: #99d79b;
+}
+.efcgr04 {
+color: #00693e;
+}
+.efcgr05 {
+color: #4c9678;
+}
+.efcgr06 {
+color: #99c3b2;
+}
+.efcbg01 {
+color: #006a7a;
+}
+.efcbg02 {
+color: #4c96a2;
+}
+.efcbg03 {
+color: #99c3ca;
+}
+.efcbg04 {
+color: #019e97;
+}
+.efcbg05 {
+color: #4dbbb6;
+}
+.efcbg06 {
+color: #99d8d5;
+}
+.efcwt01 {
+color: #00acf9;
+}
+.efcwt02 {
+color: #4cc5fb;
+}
+.efcwt03 {
+color: #99defd;
+}
+.efcbl01 {
+color: #0074cd;
+}
+.efcbl02 {
+color: #4c9ddc;
+}
+.efcbl03 {
+color: #99c7eb;
+}
+.efcbl04 {
+color: #000499;
+}
+.efcbl05 {
+color: #4c4fb7;
+}
+.efcbl06 {
+color: #99defd;
+}
+.efcdb01 {
+color: #13245e;
+}
+.efcdb02 {
+color: #59658e;
+}
+.efcdb03 {
+color: #a1a7bf;
+}
+.efcbk01 {
+color: #000;
+}
+.efcgl01 {
+color: #4c4c4c;
+}
+.efcgl02 {
+color: #999;
+}
+.efcgl03 {
+color: #b5b5b5;
+}
+.efcgl04 {
+color: #dcdcdc;
+}
+.efcwh01 {
+color: #fff;
+}

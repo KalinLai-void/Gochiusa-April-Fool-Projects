@@ -1,0 +1,22 @@
+/* ユーザエリア006指定
+---------------------------------------------*/
+/* エリア指定 */
+#user_area_006 {
+margin: 0px auto;
+padding: 0px;
+text-align: left;
+background: #fff;
+border: 1px solid #bbb;
+}
+
+#user_area_006 h2 {
+margin: 0px;
+padding: 5px;
+color: #fff;
+background: url(../../images/main/h2_ti_bg_b.html) top repeat-x;
+}
+
+#user_area_006 p {
+margin: 0px;
+padding: 5px;
+}

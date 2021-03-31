@@ -1,0 +1,51 @@
+/* 一覧リストテーブルレイアウト(サムネイル付自動改行)
+---------------------------------------------*/
+/* 表本枠指定 */
+#list_06 {
+clear: both;
+margin: 20px auto;
+padding: 0px;
+}
+
+#list_06 p {
+margin: 0px;
+padding: 0px;
+}
+
+#list_06 .nwu_box {
+float: left;
+width: 170px;
+margin: 5px 5px 10px 5px;
+padding: 5px;
+text-align: center;
+background-color: #fff;
+border: 1px solid #bbb;
+}
+
+/* サムネイル指定 */
+#list_06 .ph_img {
+margin: 0px;
+padding: 0px;
+}
+
+/* 専用装飾指定
+---------------------------------------------*/
+/* タイトル指定 */
+#list_06 .title {
+margin: 0px;
+padding: 0px;
+font-weight: bold;
+text-align: left;
+}
+
+#list_06 .day {
+margin: 0px;
+padding: 0px;
+text-align: left;
+}
+
+#list_06 .cap {
+margin: 0px;
+padding: 0px;
+text-align: left;
+}

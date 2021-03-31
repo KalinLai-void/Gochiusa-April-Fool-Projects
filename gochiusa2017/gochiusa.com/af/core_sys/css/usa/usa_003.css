@@ -1,0 +1,105 @@
+.js-loaded .quest_button img,
+.js-loaded .summon_button img,
+.js-loaded .counter img{
+    -webkit-animation: fadein 1s ease 7s 1 both;
+            animation: fadein 1s ease 7s 1 both;
+}
+
+.js-loaded .quest_button img{
+    -webkit-animation: rotate 1s ease 7s 1 , fadein 1s ease 7s 1 both;
+            animation: rotate 1s ease 7s 1 , fadein 1s ease 7s 1 both;
+}
+
+.js-loaded .summon_button img{
+    -webkit-animation: rotateR 1s ease 7s 1 fadein 1s ease 7s 1 both;
+            animation: rotateR 1s ease 7s 1 , fadein 1s ease 7s 1 both;
+}
+
+
+
+
+.quest_button img{
+    position:absolute;
+    top: 420px;
+    left:0;
+    -webkit-transition-timing-function: ease-out;
+            transition-timing-function: ease-out;
+    -webkit-transform-origin: 49% 48%;
+            transform-origin: 49% 48%;
+    width: 200px;
+}
+
+.js-loaded .quest_button img:hover{
+    -webkit-transform:rotate(-360deg);
+            transform:rotate(-360deg);
+    -webkit-transition:1s;
+    transition:1s;
+}
+
+.summon_button img{
+    position: absolute;
+    top: 550px;
+    left: 80px;
+    -webkit-transition-timing-function: ease-out;
+            transition-timing-function: ease-out;
+    -webkit-transform-origin: 49% 48%;
+            transform-origin: 49% 48%;
+    width: 250px;
+}
+
+.js-loaded .summon_button img:hover{
+    -webkit-transform:rotate(360deg);
+            transform:rotate(360deg);
+    -webkit-transition:1s;
+    transition:1s;
+}
+
+.counter img {
+    position: absolute;
+    top: 850px;
+    left: 35px;
+}
+
+
+.quest_button img,
+.summon_button img,
+.counter img{
+    opacity:0;
+}
+
+.quest_button a,
+.summon_button a,
+.counter img{
+
+}
+
+.js-opend .quest_button a,
+.js-opend .summon_button a{
+
+}
+
+@-webkit-keyframes rotate {
+    0% { -webkit-transform:rotate(10deg); transform:rotate(10deg); }
+    100% { -webkit-transform:rotate(0deg); transform:rotate(0deg); }
+}
+
+
+@keyframes rotate {
+    0% { -webkit-transform:rotate(10deg); transform:rotate(10deg); }
+    100% { -webkit-transform:rotate(0deg); transform:rotate(0deg); }
+}
+
+@-webkit-keyframes rotateR {
+    0% { -webkit-transform:rotate(-10deg); transform:rotate(-10deg); }
+    100% { -webkit-transform:rotate(0deg); transform:rotate(0deg); }
+}
+
+@keyframes rotateR {
+    0% { -webkit-transform:rotate(-10deg); transform:rotate(-10deg); }
+    100% { -webkit-transform:rotate(0deg); transform:rotate(0deg); }
+}
+
+@keyframes fadein{
+0% {opacity:0;pointer-events:none;}
+100% {opacity:1;pointer-events:auto;}
+}

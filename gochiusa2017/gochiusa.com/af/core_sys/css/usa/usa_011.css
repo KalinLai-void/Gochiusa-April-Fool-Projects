@@ -1,0 +1,14 @@
+.summon_hikunoja img{
+  position: absolute;
+  margin: auto;
+  left: 23px;
+  right: 0;
+  top: 280px;
+  animation : hikunoja 0.5s ease-out 0s infinite alternate;
+
+}
+
+@keyframes hikunoja {
+  0% {transform:translate(0)}
+  100% {transform:translate(0,-2px)}
+}

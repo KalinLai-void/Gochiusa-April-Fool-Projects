@@ -1,0 +1,74 @@
+/* 1.画像付き一覧リストテーブルレイアウト
+---------------------------------------------*/
+/* エリア指定 */
+#list_04 {
+	clear: both;
+	margin: 0px auto;
+	padding: 10px 0px;
+	}
+
+/* リストテーブル基本枠指定 */
+#list_04 table {
+	clear: both;
+	width: 100%;
+	margin: 0px auto;
+	padding: 0px;
+	line-height: 1.4em;
+	border-collapse: separate;
+	border-spacing: 5px;
+	}
+
+/* リストテーブル箇所指定 */
+#list_04 td {
+	margin: 0px;
+	padding: 10px;
+	text-align: left;
+	vertical-align: top;
+	border: 1px solid #cccccc;
+	background: URL(../../../images/sys/list_gl_bg.gif) bottom repeat-x #ffffff;
+	}
+
+#list_04 td.pr_no {
+	border: none;
+	background: #ffffff;
+	}
+
+/* 専用装飾指定
+---------------------------------------------*/
+/* サムネイル指定（幅指定あり） */
+#list_04 .sm {
+	float: left;
+	width:150px;
+	margin: 0px 15px 5px 0px;
+	padding: 5px 0px;
+	text-align: center;
+	vertical-align: middle;
+	background: #eeeeee;
+	}
+
+/* タイトル指定 */
+#list_04 .title {
+	_height: 1px;
+	overflow: hidden;
+	_overflow: visible;
+	margin: 0px;
+	padding: 0px 0px 5px 0px;
+	font-weight: bold;
+	border-bottom: 1px dotted #cccccc;
+	}
+
+/* 日付指定 */
+#list_04 .day {
+	_height: 1px;
+	overflow: hidden;
+	_overflow: visible;
+	margin: 5px 0px 10px 0px;
+	padding: 0px;
+	border-bottom: 1px dotted #cccccc;
+	}
+
+/* 本文指定 */
+#list_04 .read {
+	margin: 5px 0px 0px 0px;
+	padding: 0px;
+	}

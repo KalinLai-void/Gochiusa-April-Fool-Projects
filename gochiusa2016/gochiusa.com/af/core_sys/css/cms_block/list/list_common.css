@@ -1,0 +1,330 @@
+/* 新着アイコン指定 */
+.new_ic {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 2px 30px;
+background: URL(../../../images/sys/new_ic01.gif) left top no-repeat;
+}
+
+/* 年度移動ナビゲーション指定
+---------------------------------------------*/
+/* 枠指定 */
+.year_navi {
+clear: both;
+_height: 1px;
+min-height: 1px;
+_overflow: visible;
+margin: 20px 0px;
+padding: 0px;
+background: url(../../../images/sys/tab_line01.gif) bottom repeat-x;
+}
+
+.year_navi:after {
+content: "";
+display: block;
+clear: both;
+height: 0px;
+overflow: hidden;
+}
+
+/* 表示中年度指定 */
+.crt_year {
+float: left;
+margin: 0px;
+padding: 0px 0px 0px 20px;
+font-size: 120%;
+font-weight: bold;
+background: url(../../../images/sys/ar02_gr02.gif) 5px center no-repeat;
+}
+
+/* 年度移動指定 */
+.year_list {
+float: right;
+margin: 0px;
+padding: 0px;
+text-align: right;
+}
+
+.year_list ul {
+_float: right;
+margin: 0px 0px 0px auto;
+padding: 0px;
+list-style: none;
+}
+
+.year_list li {
+float: left;
+margin: 0px 2px;
+padding: 0px;
+}
+
+.year_list li.prev_year {
+margin: 0px;
+padding: 5px 10px 0px 15px;
+color: #aaa;
+background: url(../../../images/sys/nb_navi_prevt_bt.gif) left 9px no-repeat;
+}
+
+.year_list li.next_year {
+margin: 0px;
+padding: 5px 15px 0px 10px;
+color: #aaa;
+background: url(../../../images/sys/nb_navi_next_bt.gif) right 9px no-repeat;
+}
+
+
+/* リンク指定(通常) */
+.year_list a {
+margin: 0px;
+padding: 5px 10px 3px 10px;
+display: block;
+border-left: 1px solid #bbb;
+border-right: 1px solid #bbb;
+border-top: 1px solid #bbb;
+}
+
+/* リンク指定(オンマウス時) */
+.year_list a:hover {
+background: url(../../../images/sys/tab_menu_r.gif) top repeat-x #fff;
+}
+
+/* リンク指定(現在位置表示・通常) */
+.year_list li.crt {
+margin: 0px;
+padding: 5px 10px 3px 10px;
+color: #666;
+font-weight: bold;
+border-left: 1px solid #bbb;
+border-right: 1px solid #bbb;
+border-bottom: 1px solid #fff;
+background: url(../../../images/sys/tab_menu_r.gif) top repeat-x #fff;
+}
+
+.prev_year a,
+.next_year a {
+margin: 0px;
+padding: 0px;
+display: inline;
+border: none;
+background: none;
+}
+
+.prev_year a:hover,
+.next_year a:hover {
+text-decoration: underline;
+background: none;
+}
+
+/* ページ移動ナビゲーション指定
+---------------------------------------------*/
+/* リスト指定 */
+.nb_navi {
+clear: both;
+_height: 1px;
+min-height: 1px;
+_overflow: visible;
+margin: 0px;
+padding: 0px;
+}
+
+.nb_navi:after {
+content: "";
+display: block;
+clear: both;
+height: 0px;
+overflow: hidden;
+}
+
+.page {
+float: left;
+margin: 0px;
+padding: 0px;
+text-align: left;
+}
+
+.page .nom {
+color: #D60000;
+font-weight: bold;
+}
+
+.page_navi {
+float: right;
+margin: 3px 0px 0px 0px;
+padding: 0px;
+text-align: right;
+line-height: 1.2em;
+}
+
+.page_navi ul {
+_float: right;
+margin: 0px 0px 0px auto;
+padding: 0px;
+list-style: none;
+}
+
+.page_navi li {
+float: left;
+margin: 0px;
+padding: 0px;
+text-align: center;
+}
+
+.page_navi li.nb_crt {
+margin: 0px;
+padding: 0px 7px;
+color: #D60000;
+font-weight: bold;
+border-right: 1px solid #666;
+}
+
+.page_navi li.nb_pre {
+margin: 0px;
+padding: 0px 7px;
+border-right: 1px solid #666;
+}
+
+.page_navi li.nb_nex {
+margin: 0px;
+padding: 0px 7px;
+}
+
+.page_navi li.nb_link {
+margin: 0px;
+padding: 0px 7px;
+border-right: 1px solid #666;
+}
+
+/* ソートメニュー指定
+---------------------------------------------*/
+/* エリア指定 */
+#sort_menu {
+_height: 1px;
+_overflow: visible;
+margin: 0px auto 15px auto;
+padding: 0px;
+text-align: right;
+border-bottom: 1px solid #cccccc;
+}
+
+#sort_menu:after {
+content: "";
+display: block;
+clear: both;
+height: 0px;
+overflow: hidden;
+}
+
+/* リスト指定 */
+#sort_menu ul {
+list-style: none;
+margin: 0px;
+padding: 0px;
+}
+
+#sort_menu li {
+float: left;
+margin: 0px;
+padding: 0px;
+text-align: center;
+background: URL(../../../images/sys/tab_menu_r.gif) right top no-repeat;
+}
+
+#sort_menu a {
+margin: 0px;
+padding: 3px 15px 3px 25px;
+display: block;
+background: URL(../../../images/sys/tab_menu_l.gif) left top no-repeat;
+}
+
+#sort_menu a:hover {
+margin: 0px;
+padding: 3px 15px 3px 25px;
+display: block;
+background: URL(../../../images/sys/tab_menu_lo.gif) left top no-repeat;
+}
+
+#sort_menu li.crt a {
+background: URL(../../../images/sys/tab_menu_lo.gif) left top no-repeat;
+}
+
+/* イニシャルリスト指定
+---------------------------------------------*/
+/* イニシャルリスト指定1 (アルファベット・50音) */
+#int_menu_fir {
+margin: 0px auto 10px auto;
+padding: 0px 0px 0px 0px;
+text-align: right;
+}
+
+#int_menu_fir ul {
+list-style: none;
+margin: 0px;
+padding: 5px 2px 5px 0px;
+text-align: right;
+border-bottom: 1px dotted #cccccc;
+}
+
+#int_menu_fir li {
+display: inline;
+margin: 0px 0px 0px 0px;
+padding: 0px 2px 0px 5px;
+text-align: center;
+border-right: 1px solid #cccccc;
+}
+
+#int_menu_fir li.crt {
+color: #D60000;
+font-weight: bold;
+}
+
+/* イニシャルリスト指定2 (50音) */
+#int_menu_sec {
+margin: 0px auto 10px auto;
+padding: 0px 0px 0px 0px;
+text-align: right;
+}
+
+#int_menu_sec ul {
+list-style: none;
+margin: 0px;
+padding: 5px 2px 5px 0px;
+text-align: left;
+border-bottom: 1px dotted #cccccc;
+}
+
+#int_menu_sec li {
+display: inline;
+margin: 0px 0px 0px 0px;
+padding: 0px 2px 0px 5px;
+text-align: center;
+border-right: 1px solid #cccccc;
+}
+
+#int_menu_sec li.kana_ti {
+margin: 0px 10px 0px 0px;
+padding: 0px;
+font-weight: bold;
+border-right: none;
+}
+
+#int_menu_sec li.name {
+margin: 0px 10px 0px 0px;
+padding: 0px 15px 0px 0px;
+font-weight: bold;
+border-right: none;
+background: URL(../../../images/sys/ar01_bl01.gif) right center no-repeat;
+}
+
+/* イニシャルタイトル */
+.int_ti {
+margin: 0px;
+padding: 5px 10px;
+font-weight: bold;
+border-bottom: 1px solid #cccccc;
+background: #f5f5f5;
+}
+
+.int_ti .alp_ti {
+margin: 0px 10px 0px 0px;
+padding: 0px 15px 0px 0px;
+background: URL(../../../images/sys/ar01_bl01.gif) right center no-repeat;
+}

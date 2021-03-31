@@ -1,0 +1,7 @@
+/* ==========共通指定========== */
+/* デザインパターン指定 */
+@import url("../../../dez_pt/top/001/base_area.css");
+@import url("../../../dez_pt/top/001/sub_area.css");
+
+/* 左右レイアウト */
+@import url("../../../dez_pt/common/1c.css");

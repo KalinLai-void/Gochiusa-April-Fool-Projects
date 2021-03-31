@@ -1,0 +1,179 @@
+/* 1.全体共通指定
+---------------------------------------------*/
+#header_logo,#gnavi,#twitter_area,.chara,#serif,#play_bt_wrap
+{display:none;}
+
+#bg_star{
+position:fixed;
+width:100%;
+height:100%;
+background:url(../../../../images/main/bg_star.png) ;
+z-index:-1;
+}
+/* 全体基本指定 */
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+img{border:0; vertical-align:top;}
+img.lp {border:1px solid #a9a9a9;}
+li{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-size:100%;text-align:left;}
+sup {vertical-align:text-top;}
+sub {vertical-align:text-bottom;}
+
+/* input */
+input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;vertical-align:middle;margin:2px;padding:0px;}
+input.txt,textarea.txt {margin:2px;padding:3px;border:1px solid #999;vertical-align:middle;font-size:14px;color:#333;}
+select {margin:2px;padding:1px;border:1px solid #999;vertical-align:middle;font-size:14px;color:#333;}
+
+html{
+background:url(../../../../images/main/bg_stripe.gif) ;
+background-attachment:fixed;
+}
+
+body {
+font-family: Meiryo, arial, sans-serif;
+padding: 0px;
+margin: 0px;
+text-align: center;
+color: #666666;
+line-height: 1.5em;
+font-size: 80%;
+}
+
+/* 基本リンク色指定 */
+
+a:link {
+color: #0e6fbc;
+}
+
+a:visited {
+color: #0e6fbc;
+}
+
+a:hover {
+color: #e60000;
+}
+
+a:active {
+color: #0e6fbc;
+}
+
+/* 2.基本エリア指定
+---------------------------------------------*/
+/* 全体外枠指定 */
+#wrapper {
+margin: 0px auto;
+padding: 0px;
+background: URL(../../../../images/main/main_bg.png) top center no-repeat;
+background-attachment:fixed;
+background-size:auto;
+}
+
+/* コンテンツ全体枠指定 */
+#container {
+margin: 0px auto;
+padding: 0px;
+}
+
+/* ヘッダー枠指定 */
+#header {
+margin: 0px auto;
+padding: 0px;
+}
+
+/* 段組全体枠指定 */
+#contents {
+clear: both;
+margin: 0px auto 0px auto;
+padding: 0px;
+width: 1000px;
+height:970px;
+position:relative;
+z-index:0;
+}
+
+/* コンテンツ・サイド グループ枠指定 */
+#contents_main {
+clear: both;
+margin: 0px auto 0px auto;
+padding: 0px;
+}
+
+/* メインエリア部分指定 */
+#main {
+width: 640px;
+margin: 0px;
+padding: 0px;
+_overflow: hidden;
+word-break: break-all;
+}
+
+/* サイド指定 */
+#side {
+width: auto;
+margin: 0px;
+padding: 0px;
+text-align: center;
+position:absolute;
+top:0px;
+left:20px;
+}
+
+/* 右サイド指定 */
+#right_side {
+margin: 0px;
+padding: 0px;
+text-align: right;
+}
+
+/* フッター枠指定 */
+#footer {
+bottom:0px;
+left:0px;
+margin: 0px;
+padding: 0px;
+width:100%;
+height:24px;
+background: URL(../../../../images/main/foot_bg.png) bottom;
+}
+
+/* 拡張エリア01枠指定 */
+#ext_area_01 {
+clear: both;
+margin: 0px auto 20px auto;
+padding: 0px;
+}
+
+/* 拡張エリア02枠指定 */
+#ext_area_02 {
+clear: both;
+margin: 0px auto;
+padding: 0px;
+}
+
+/* IE6/7対応 */
+#contents,
+#contents_main,
+#ext_area_01,
+#ext_area_02,
+.header_sa01,
+.header_sa02,
+.header_sa03,
+.header_sa04,
+.main_sa01,
+.main_sa02,
+.main_sa03,
+.main_sa04,
+.main_sa05,
+.main_sa06,
+.main_sa07,
+.main_sa08,
+.footer_sa01,
+.footer_sa02,
+.footer_sa03,
+.ti_b,
+#news_ct_h {
+	min-height: 0em;
+	_height: 0px;
+	_overflow: visible;
+	}

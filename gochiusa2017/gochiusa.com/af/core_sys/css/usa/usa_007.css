@@ -1,0 +1,40 @@
+.bg_img_wrap img{
+position:absolute;
+opacity: 0;
+}
+
+/* ====================
+ 船
+==================== */
+.js-loaded .bg_img_ship img{
+  top: 155px;
+  left: 130px;
+  animation: ships  3s ease 4s 1 both,
+  swaggy_x 13s ease 8.2s infinite alternate,
+  swaggy_y 13s ease 8.1s infinite alternate;
+  transform-origin: bottom right;
+  width: calc(1339px * 0.7);
+}
+
+/* ====================
+ ワイルドギース＆あんこ
+==================== */
+.js-loaded .bg_img_wild img{
+  top: 400px;
+  left: 370px;
+  right:0;
+  animation: ships 2.5s ease 4.5s 1 both,
+  swaggy_x 10s ease 8.3s infinite alternate,
+  swaggy_y 10s ease 8.4s infinite alternate;
+  transform-origin: bottom center;
+  width: calc(901px * 0.7);
+}
+
+/* ====================
+ 船 共有 登場アニメーション
+==================== */
+@keyframes ships {
+0% { opacity: 0; transform: scale(0.8) translate(200px , 0); }
+30% { opacity: 1; transform: scale(1) translate(-20px , 0); }
+100% { opacity: 1; transform: scale(1) translate(0 , 0); }
+}

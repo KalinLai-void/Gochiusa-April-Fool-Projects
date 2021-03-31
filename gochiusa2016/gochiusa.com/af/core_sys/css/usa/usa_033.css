@@ -1,0 +1,14 @@
+#af_top {
+font-size:0;
+margin: 0px;
+padding: 0px 0px 0px 0px;
+text-align:left;
+position:absolute;
+bottom:20px;
+right:20px;
+}
+#af_top li{
+display:inline-block;
+vertical-align:bottom;
+}
+#main_logo{display:none;}

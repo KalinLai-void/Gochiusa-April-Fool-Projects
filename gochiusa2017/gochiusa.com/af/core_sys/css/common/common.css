@@ -1,0 +1,87 @@
+/* ========================================
+bug fix
+======================================== */
+/* 游ゴシックWindow対策 */
+@font-face {font-family: "Yu Gothic";src: local("Yu Gothic Medium");font-weight: 100;}
+@font-face {font-family: "Yu Gothic";src: local("Yu Gothic Medium");font-weight: 200;}
+@font-face {font-family: "Yu Gothic";src: local("Yu Gothic Medium");font-weight: 300;}
+@font-face {font-family: "Yu Gothic";src: local("Yu Gothic Medium");font-weight: 400;}
+@font-face {font-family: "Yu Gothic";src: local("Yu Gothic Bold");font-weight: bold;}
+
+/* iOS対策 */
+html{
+-ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+}
+
+/* border-box */
+*, *:before, *:after {box-sizing: border-box;}
+
+/* 画像下余白消し */
+img{vertical-align: bottom;}
+
+/* 埋め込みコード非表示 */
+iframe[name='google_conversion_frame'] {
+position: absolute;
+pointer-events: none;
+bottom: 0;
+right: 0;
+}
+
+/* ========================================
+system
+======================================== */
+
+/* 強制フロート解除 */
+.clear {clear: both;margin: 0px;padding: 0px;}
+/* 強制フロート解除(解除時にマージン有りを指定) */
+.clear_margin {clear: both;margin: 0px;padding: 2px 0px;}
+/* 共通フォームボタン位置指定(右寄せ) */
+.bt {clear: both;margin: 5px;padding: 0;text-align: right;}
+/* [ページのトップへ]ボタン位置指定 */
+.sc {clear: both;margin: 0px;padding: 16px 0;text-align: center;}
+/* システムコメント掲載箇所(共通) */
+.alert {clear: both;width: auto;margin: 5px auto 0;padding: 5px;text-align: left;background-color: #fff;border: 1px solid #ccc;}
+/* システムコメント掲載箇所(共通) */
+.alert02 {clear: both;width: 100%;margin: 5px auto 0;padding: 0;text-align: left;}
+/* 注意コメントエリア(共通・大) */
+.caution {width: auto;margin: 3px auto;padding: 50px 3px 50px 120px;text-align: left;}
+/* 注意コメントエリア(50音リスト・小) */
+.caution02 {margin: 3px auto;padding: 30px 3px 30px 90px;text-align: left;}
+
+
+/* ========================================
+  foundation
+======================================== */
+
+body {
+font-family: 'Yu Gothic', YuGothic, sans-serif;
+margin: 0;
+color: #333;
+line-height: 1.6;
+//animation: fadein 1s ease 0s 1 both;
+}
+
+@keyframes fadein{
+0% {opacity: 0;}
+100% {opacity: 1;}
+}
+
+/*  link
+======================================== */
+
+/* 画像ホバー効果 */
+a:hover img{
+animation: brightness 0.5s ease 0s 1 both;
+}
+
+@keyframes brightness{
+0% {filter:brightness(1);}
+100% {filter:brightness(1.2);}
+}
+
+/* 基本リンク色指定 */
+a:link {color: #1caebb;}
+a:visited {color: #166a71;}
+a:hover {color: #f41b86;}
+a:active {color: #0e6fbc;}

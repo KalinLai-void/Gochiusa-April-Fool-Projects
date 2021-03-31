@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.twitter.com	TRUE	/	FALSE	1999999999	att	E76Eu5EaPEZr3gmC8HrgLVUAE5qMEszZnfR6anqQ
+.twitter.com	TRUE	/	FALSE	1999999999	external_referer	8e8t2xd8A2w%3D|0|GlWr2u5wzZgGipXRLxmupQ%3D%3D
+twitter.com	TRUE	/	FALSE	1999999999	cms-csp-nonce	6f5e507c28702091e48dc8ae0db6f0b
+twitter.com	TRUE	/	FALSE	1999999999	lang	kn
+.twitter.com	TRUE	/	FALSE	1999999999	fm	0
+.twitter.com	TRUE	/	FALSE	1999999999	_twitter_sess	BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCLdeFYhxAToMY3NyZl9p%250AZCIlMjE1NmQxMTAzZTBiYjg4YTljZDlkNDIzMjRjNjU5NzA6B2lkIiU1OTky%250AZmY3MTRjMzI4MWZkNTNlYWE3MDE5ODY0YzFlZQ%253D%253D--b19c58a4104849655a0b72ef8109a0449be148d3
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_EKYcNwn1ynyGikNSKxi4Zg=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A158712603410015861
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	ct0	d153cd4046d34fdb36ac0ca8d06079af
+

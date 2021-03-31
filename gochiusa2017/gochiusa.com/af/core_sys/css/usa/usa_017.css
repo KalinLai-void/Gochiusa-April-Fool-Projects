@@ -1,0 +1,8 @@
+.sub_navi {
+display:flex;
+  margin-top: -80px;
+}
+
+.sub_navi_summon {
+margin:20px 0 0 -10px;
+}

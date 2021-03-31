@@ -1,0 +1,39 @@
+#side_area {
+margin: 0px;
+padding: 20px 0px 0px 10px;
+}
+#side_area li{
+margin: 0px 0px 10px;
+padding: 0px;
+}
+#side_area li p{
+width:175px;
+margin:0px auto;
+}
+#side_area li a img{
+width:85%;
+height:auto;
+}
+#side_area li a:hover,a:hover img{
+-moz-opacity:1.00 !important;
+-webkit-opacity:1.00 !important;
+opacity: 1.00 !important;
+filter: brightness(1.1);
+-webkit-filter: brightness(1.1);
+-moz-filter: brightness(1.1);
+}
+#side_area li a.crt img{
+width:100%;
+height:auto;
+}
+
+#side_area li h2{
+width:195px;
+margin: 0px 0px 10px;
+padding: 0px 0px 0px 35px;
+}
+
+#main_logo{
+position:absolute;
+bottom:20px;
+}
