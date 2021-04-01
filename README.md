@@ -2,10 +2,9 @@
 點兔歷年愚人節企劃（網站備份）
 
 此為點兔官方每年愚人節之企劃設立的網站備份
-
+點兔動畫官網：https://gochiusa.com/
 
 本人整理為一個大網站，因此網站非本人所有
-
 ※ 僅做為推廣及學習用途，本人不涉及任何商業行為
 
 
@@ -27,3 +26,5 @@ https://karlunlai-void.github.io/Is_Order_A_Rabbit/
 2019 CLOCKWORK RABBIT
 
 2020 Regene Play Rabbits
+
+2021 Seven Rabbits Sins

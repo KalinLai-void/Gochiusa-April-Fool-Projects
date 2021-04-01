@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.scrollButton {
+  background: #000;
+  color: #fff;
+}
+
+.copyright {
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 1em;
+  margin: 0;
+}

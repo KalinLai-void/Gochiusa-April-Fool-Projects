@@ -1,0 +1,153 @@
+@charset "utf-8";
+
+/* NEWマーク
+========================================== */
+.new_ic {
+  display: inline-block;
+}
+
+#list_01 .new_ic>a{
+  display: inline;
+}
+
+.new_ic::before {
+  content:" NEW";
+  background: #bb4a4a;
+  color: #fafafa;
+  font-weight: 300;
+  font-size: 1.1rem;
+  padding: .2em .2em .1em;
+  margin: 0 .5em 0 0;
+}
+
+/* Youtube
+========================================== */
+/*
+  width = ウィンドウ幅 - 左右マージンの合計
+  height = width * 9/16
+  ※単位vwはスクロールバーを含めた値になるため、PCの場合は少しずれる。
+  　スマホは問題ない。
+*/
+
+.read iframe {
+  margin: 1em 0;
+  max-width: 640px;
+  max-height: calc( 640px * 9 / 16 );
+  width: calc( 100vw - 40px );
+  height: calc( ( 100vw - 40px ) * 9 / 16 );
+}
+
+
+/* ページネーション（ネクストバック）
+========================================== */
+
+/* ネクストバックナビ */
+.nb_navi {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* 件数表示 */
+.page {
+}
+
+/* 件数件表示（数字） */
+.page>.nom {
+}
+
+/* ページネーション（リスト） */
+.page_navi>ul {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* ページネーション（ページ数、前、次） */
+.page_navi li {
+}
+
+/* ページネーション（前、次のみ） */
+.page_navi li.nb_pre,
+.page_navi li.nb_nex {
+  margin: 0 1em;
+}
+
+/* ページネーション（ページ数のみ） */
+.page_navi li.nb_crt,
+.page_navi li.nb_link {
+  margin: 0 .5em;
+}
+
+/* ページネーション（ページ数 カレント） */
+.page_navi li.nb_crt {
+}
+
+/* ページネーション（リンク） */
+.page_navi a {
+  text-decoration: none;
+}
+
+.page_navi a:hover {
+}
+
+/* ページネーション リンクなし */
+.page_navi li>span {
+  opacity: .2;
+}
+
+/* バナーユニット
+========================================== */
+
+[id^="bnu_001_"] {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 30px 0 0;
+}
+
+[id^="bnu_001_"]>p {
+  width: 100%;
+  max-width: 350px;
+  margin: 0 10px 10px;
+}
+
+/* ==========================================
+*
+*  mfp
+*
+========================================== */
+
+.mfp-bg {
+  background: rgba(0, 0, 0, .8) !important;
+}
+
+.mfp-fade.mfp-bg {
+  opacity: 0;
+  transition: .5s;
+}
+
+/* overlay animate in */
+.mfp-fade.mfp-bg.mfp-ready {
+  opacity: 1;
+}
+
+/* overlay animate out */
+.mfp-fade.mfp-bg.mfp-removing {
+  opacity: 0;
+}
+
+/* content at start */
+.mfp-fade.mfp-wrap .mfp-content {
+  opacity: 0;
+  transition: .5s;
+}
+
+/* content animate it */
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
+  opacity: 1;
+}
+
+/* content animate out */
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
+  opacity: 0;
+}
