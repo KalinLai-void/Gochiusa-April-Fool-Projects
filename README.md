@@ -16,6 +16,8 @@
 
 我也有用Github Pages架設網站，可以直接透過以下網址前往
 
+（目前網站暫已關閉）
+
 https://karlunlai-void.github.io/Is_Order_A_Rabbit/
 
 ---
