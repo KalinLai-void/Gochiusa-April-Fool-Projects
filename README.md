@@ -18,7 +18,7 @@
 
 （目前網站暫已關閉）
 
-https://karlunlai-void.github.io/Is_Order_A_Rabbit/
+https://kalinlai-void.github.io/Is_Order_A_Rabbit/
 
 ---
 2015 魔法少女チノ
