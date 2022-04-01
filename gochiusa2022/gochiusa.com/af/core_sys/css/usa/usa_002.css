@@ -1,0 +1,1344 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "GenJyuuGothicXP";
+  src: url("../../images/others/font/GenJyuuGothicX-Medium.woff2") format("woff2"), url("../../images/others/font/GenJyuuGothicX-Medium.woff") format("woff");
+  font-weight: 400;
+}
+.blue {
+  color: #0b6dff !important;
+}
+
+@media screen and (max-width: 899px) {
+  html {
+    font-size: 58%;
+  }
+}
+@media screen and (max-width: 600px) {
+  html {
+    font-size: 55%;
+  }
+}
+
+#contents {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: auto;
+  font-size: 2rem;
+  font-family: "GenJyuuGothicXP", "Noto Sans JP", "Noto Sans JP", "ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
+}
+#contents > div {
+  position: relative;
+  min-height: 100%;
+  padding-bottom: 4em;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  text-align: right;
+  font-size: 1rem;
+  color: #6fc2ff;
+}
+
+.loading__wrap {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.loading__wrap::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 300px;
+  max-width: 50%;
+  background: url(../../images/main/loading/bg.jpg) top center/cover no-repeat;
+}
+.loading__inner {
+  position: relative;
+  color: #fff;
+}
+.loading__logo {
+  font-family: "Noto Serif JP", "ヒラギノ明朝 ProN W3", "游明朝 Medium", "Yu Mincho Medium", "游明朝", "Yu Mincho", YuMincho, serif;
+  text-align: center;
+  font-size: 3.5rem;
+  padding-top: 1em;
+}
+.loading__logo ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.loading__logo li {
+  opacity: 0;
+  margin-bottom: 0.5em;
+  width: 8em;
+}
+.loading__logo li:nth-child(2) {
+  width: 2em;
+  margin-bottom: 0.5em;
+}
+.loading__logo p {
+  margin-bottom: 0.5em;
+  color: #004fa3;
+}
+.loading__txt {
+  text-shadow: -2px -2px 0 #000, -2px -1px 0 #000, -2px 0px 0 #000, -2px 1px 0 #000, -2px 2px 0 #000, -1px -2px 0 #000, 0px -2px 0 #000, 1px -2px 0 #000, -1px 2px 0 #000, 0px 2px 0 #000, 1px 2px 0 #000, 2px -2px 0 #000, 2px -1px 0 #000, 2px 0px 0 #000, 2px 1px 0 #000, 2px 2px 0 #000;
+}
+
+.home__wrap {
+  max-width: 1400px;
+  min-height: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.home__wrap::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 27.5%;
+  width: 10%;
+  background: url(../../images/main/loading/bg.jpg) top center/cover no-repeat;
+  z-index: -1;
+}
+.home__inner {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home__kv {
+  width: 65%;
+  position: relative;
+}
+.home__dialogue > div {
+  position: absolute;
+  padding: 50px 20px 20px;
+  font-size: 1.8rem;
+  line-height: 1.6;
+  color: #fff;
+  opacity: 0;
+  z-index: 1;
+}
+.home__dialogue > div::before, .home__dialogue > div::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+}
+.home__dialogue > div::before {
+  top: 0;
+  bottom: 0;
+  background: url(../../images/main/home/dialogue/top.png) top left/20px 40px repeat-x, url(../../images/main/home/dialogue/bottom.png) bottom left/20px 13px repeat-x, url(../../images/main/home/dialogue/body.png) top 40px left/100% calc(100% - 53px) no-repeat;
+}
+.home__dialogue > div::after {
+  top: 40px;
+  bottom: 13px;
+  left: 0;
+  right: 0;
+}
+.home__dialogue-name {
+  display: inline-block;
+  background: #53bbff;
+  padding: 0.2em 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 1;
+  border-radius: 0.4rem;
+}
+.home__dialogue-natsume {
+  top: 55%;
+  left: 10%;
+  background: url(../../images/main/home/dialogue/rev/top_left.png) top right/15px 40px no-repeat, url(../../images/main/home/dialogue/rev/top_right.png) top left/100px 40px no-repeat, url(../../images/main/home/dialogue/rev/bottom_left.png) bottom right/15px 13px no-repeat, url(../../images/main/home/dialogue/rev/bottom_right.png) bottom left/100px 13px no-repeat;
+}
+.home__dialogue-natsume::before {
+  right: 15px;
+  left: 100px;
+}
+.home__dialogue-natsume::after {
+  top: 40px;
+  bottom: 13px;
+  left: 0;
+  right: 0;
+  background: url(../../images/main/home/dialogue/rev/left.png) top right/15px 14px repeat-y, url(../../images/main/home/dialogue/rev/right.png) top left/100px 14px repeat-y;
+}
+.home__dialogue-elu {
+  top: 28%;
+  right: 5%;
+  background: url(../../images/main/home/dialogue/top_left.png) top left/15px 40px no-repeat, url(../../images/main/home/dialogue/top_right.png) top right/100px 40px no-repeat, url(../../images/main/home/dialogue/bottom_left.png) bottom left/15px 13px no-repeat, url(../../images/main/home/dialogue/bottom_right.png) bottom right/100px 13px no-repeat;
+}
+.home__dialogue-elu::before {
+  left: 15px;
+  right: 100px;
+}
+.home__dialogue-elu::after {
+  background: url(../../images/main/home/dialogue/left.png) top left/15px 14px repeat-y, url(../../images/main/home/dialogue/right.png) top right/100px 14px repeat-y;
+}
+.home__menu {
+  width: 35%;
+}
+.home__menu h2 {
+  font-family: "Rubik", "Noto Sans JP", "Noto Sans JP", "ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
+  font-weight: 300;
+  font-size: 6rem;
+  border-bottom: 4px solid #6fc2ff;
+  margin: 0.25em 0 0.1em;
+}
+.home__menu ul {
+  display: flex;
+  font-size: 1.6rem;
+  text-align: center;
+  line-height: 1.2em;
+}
+.home__menu li {
+  width: calc(100% / 3);
+}
+.home__menu button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.home__menu button span {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  min-height: 2.4em;
+}
+.home__logo {
+  padding: 0 1em;
+}
+@media screen and (max-width: 899px) {
+  .home__wrap::before {
+    left: 40%;
+    width: 20%;
+    background-size: auto 60%;
+  }
+  .home__inner {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .home__kv {
+    width: 100%;
+  }
+  .home__dialogue > div {
+    width: calc(100% - 1em);
+  }
+  .home__dialogue-natsume {
+    top: 60%;
+    left: 0;
+  }
+  .home__dialogue-elu {
+    top: calc(60% - 1em);
+    right: 0;
+  }
+  .home__dialogue-txt {
+    width: 100%;
+  }
+  [data-voice="negative"] .home__dialogue-natsume {
+    z-index: 10;
+    top: calc(60% - 1em);
+  }
+  [data-voice="negative"] .home__dialogue-elu {
+    top: 60%;
+  }
+  .home__menu {
+    width: 400px;
+    max-width: 100%;
+    background: linear-gradient(rgba(255, 255, 255, 0), #fff 10%, #fff calc(100% - 6em), rgba(255, 255, 255, 0));
+    padding: 0 1em 2em;
+  }
+}
+
+.story__inner {
+  max-width: 900px;
+  padding: 0;
+  margin: auto;
+  display: flex;
+}
+.story__bg {
+  position: relative;
+  width: 160px;
+  max-width: 20%;
+  flex-shrink: 0;
+}
+.story__bg span {
+  position: sticky;
+  top: 0;
+  display: inline-block;
+}
+.story__main {
+  padding: 2em;
+}
+.story__main > div {
+  margin-bottom: 2em;
+  opacity: 0;
+}
+.story__dialogue dl {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5em;
+  opacity: 0;
+}
+.story__dialogue dt {
+  width: 100px;
+  max-width: 15%;
+  flex-shrink: 0;
+}
+.story__dialogue dd {
+  width: 100%;
+  position: relative;
+  border: 2px solid #6fc2ff;
+  background: #fff;
+  padding: 1em 1.5em;
+  margin: 0;
+}
+.story__dialogue dd::after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  content: "";
+  display: block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid;
+  background: #fff;
+  transform: rotate(135deg) skew(15deg, 15deg);
+}
+.story__dialogue-right {
+  flex-direction: row-reverse;
+}
+.story__dialogue-right dd {
+  margin-right: 1.5em;
+}
+.story__dialogue-right dd::after {
+  right: -0.5em;
+  border-color: #6fc2ff transparent transparent #6fc2ff;
+}
+.story__dialogue-left dd {
+  margin-left: 1.5em;
+}
+.story__dialogue-left dd::after {
+  left: -0.5em;
+  border-color: transparent #6fc2ff #6fc2ff transparent;
+}
+.story__button button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+@media screen and (max-width: 600px) {
+  .story__bg {
+    max-width: 10%;
+  }
+  .story__bg img {
+    height: 100vh;
+    max-width: none;
+  }
+  .story__bg span {
+    overflow: hidden;
+    position: fixed;
+    top: 0 !important;
+    left: 0;
+    width: 10%;
+  }
+  .story__main {
+    padding: 0.5em;
+  }
+}
+@media screen and (max-width: 400px) {
+  .story__dialogue dd {
+    padding: 0.5em;
+    margin-right: 1em;
+  }
+  .story__dialogue dd::after {
+    width: 0.5em;
+    height: 0.5em;
+  }
+  .story__dialogue-right dd::after {
+    right: -0.25em;
+  }
+  .story__dialogue-left dd::after {
+    left: -0.25em;
+  }
+}
+
+.start__inner {
+  max-width: 900px;
+  padding: 0;
+  margin: auto;
+  display: flex;
+}
+.start__bg {
+  position: relative;
+  width: 160px;
+  max-width: 20%;
+  flex-shrink: 0;
+}
+.start__bg span {
+  position: sticky;
+  top: 0;
+  display: inline-block;
+}
+.start__main {
+  padding: 2em;
+  width: 100%;
+}
+.start__main > div {
+  margin-bottom: 2em;
+}
+.start__txt {
+  border-bottom: 4px solid #6fc2ff;
+}
+.start__list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2em;
+  cursor: pointer;
+}
+.start__list-door {
+  flex-shrink: 0;
+  max-width: 20%;
+}
+.start__list-txt {
+  width: 15em;
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.2em;
+}
+.start__list-txt::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 4px;
+  background: #6fc2ff;
+}
+.start__list-txt::before {
+  order: 1;
+  display: block;
+  width: 100%;
+  color: #6fc2ff;
+  text-align: center;
+}
+li[data-comp="1"] .start__list-txt::before {
+  content: "探索済み";
+}
+li[data-comp="open"] .start__list-txt::before {
+  content: "家の中で異変が起きている";
+}
+.start__button button {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 1.2em;
+  width: 100%;
+}
+.start__button button img {
+  flex-shrink: 0;
+  max-width: 20%;
+}
+@media screen and (max-width: 600px) {
+  .start__bg {
+    max-width: 10%;
+  }
+  .start__main {
+    padding: 0.5em;
+    max-width: 90%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .start__bg {
+    max-width: 10%;
+  }
+  .start__bg img {
+    height: 100vh;
+    max-width: none;
+  }
+  .start__bg span {
+    overflow: hidden;
+    position: fixed;
+    top: 0 !important;
+    left: 0;
+    width: 10%;
+  }
+  .start__main {
+    padding: 0.5em;
+  }
+}
+@media screen and (max-width: 400px) {
+  .start__dialogue dd {
+    padding: 0.5em;
+    margin-right: 1em;
+  }
+  .start__dialogue dd::after {
+    width: 0.5em;
+    height: 0.5em;
+  }
+  .start__dialogue-right dd::after {
+    right: -0.25em;
+  }
+  .start__dialogue-left dd::after {
+    left: -0.25em;
+  }
+}
+
+.game {
+  color: #fff;
+}
+.game__read {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 6.5em;
+  font-size: 2em;
+  line-height: 1.5;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+  cursor: pointer;
+}
+.game__read::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  opacity: 0.8;
+  z-index: -1;
+}
+.game__inner {
+  max-width: 900px;
+  margin: auto;
+}
+.game__question {
+  display: flex;
+  flex-direction: column;
+  padding: 5rem 0 1.5rem;
+  overflow: hidden;
+}
+.game__kv {
+  order: 0;
+  position: relative;
+}
+.game__kv-txt {
+  position: relative;
+  padding: 1em;
+  z-index: 10;
+}
+.game__kv-txt::after {
+  content: attr(data-status);
+  display: block;
+  font-size: 1.2em;
+  letter-spacing: 0.1em;
+}
+.game__kv .game__kv-txt {
+  max-width: 60%;
+  line-height: 1.1;
+}
+.game__kv-bg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #0b3651;
+  z-index: -1;
+  overflow: hidden;
+}
+.game__kv-bg::before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: "";
+  border: 1px solid #51bcff;
+  filter: drop-shadow(0px 0px 0.25em #51bcff) drop-shadow(0px 0px 0.25em #51bcff) drop-shadow(0px 0px 0.25em #51bcff) drop-shadow(0px 0px 0.25em #51bcff);
+  z-index: 10;
+}
+.game__title {
+  position: absolute;
+  top: 1em;
+  left: 0;
+  width: 50%;
+  font-size: 1.1em;
+}
+.game__charaName {
+  position: absolute;
+  bottom: 1em;
+  left: 0;
+  width: 50%;
+  font-size: 1.1em;
+}
+.game__charaImg {
+  position: absolute;
+  bottom: -5rem;
+  right: 0;
+  width: 23%;
+  z-index: 15;
+}
+.game__kvImg {
+  position: relative;
+  background: #0b3651;
+  border: 0.8rem solid #0b3651;
+  border-radius: 50%;
+  width: 50%;
+  margin: auto;
+}
+.game__kvImg img {
+  z-index: 10;
+  position: relative;
+}
+.game__kvImg::before {
+  content: "";
+  position: absolute;
+  top: -10%;
+  bottom: -10%;
+  left: -10%;
+  right: -10%;
+  background: url(../../images/main/game/kv_circle.png) center center/100% no-repeat;
+  z-index: 15;
+}
+.game__kvImg::after {
+  content: "";
+  position: absolute;
+  top: -52%;
+  bottom: -47%;
+  left: -50%;
+  right: -50%;
+  background: url(../../images/main/game/circle.png) center center/contain no-repeat;
+  mix-blend-mode: overlay;
+}
+.game__circle {
+  position: absolute;
+  top: -10%;
+  bottom: -10%;
+  left: -10%;
+  right: -10%;
+  background: url(../../images/main/game/kv_circle_on.png) center center/100% no-repeat;
+  z-index: 15;
+}
+.game__line {
+  position: absolute;
+  top: -0.8rem;
+  bottom: -0.8rem;
+  right: -0.8rem;
+  left: -0.8rem;
+  background: #5cdcff;
+  border-radius: 300px;
+  margin: auto;
+  clip-path: polygon(0 60%, 0 60%, 0 60%, 50% 50%);
+}
+.game__egg {
+  position: absolute;
+  right: -6.5%;
+  bottom: 40%;
+  width: 10%;
+  z-index: 20;
+}
+.game__txt {
+  order: 1;
+  position: relative;
+  margin-top: 1em;
+}
+.game__answer {
+  order: 2;
+  line-height: 1.2;
+}
+.game__answer li {
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(to right, #fff, #0b3651, #0b3651);
+  margin-bottom: 1.5em;
+  font-size: 1.25em;
+  min-height: 3.5em;
+}
+.game__answer-txt {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  opacity: 0;
+}
+.game__answer-txt::before {
+  content: "";
+  display: block;
+  width: 40%;
+  height: 100%;
+  flex-shrink: 0;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.game__answer-01 .game__answer-txt::before {
+  background-image: url(../../images/main/game/natsume.png);
+}
+.game__answer-02 .game__answer-txt::before {
+  background-image: url(../../images/main/game/elu.png);
+}
+.game__answer-button {
+  width: 150px;
+  max-width: 20%;
+  margin: -0.6em -1.2em -0.6em 0;
+  flex-shrink: 0;
+  display: flex;
+}
+@media screen and (max-width: 1000px) {
+  .game__answer li {
+    margin-right: 1.2em;
+  }
+}
+@media screen and (max-width: 899px) {
+  .game__read {
+    font-size: 1.5em;
+  }
+}
+@media screen and (max-width: 600px) {
+  .game__kvImg {
+    margin-right: 10%;
+  }
+  .game__title, .game__charaName {
+    width: 65%;
+  }
+  .game__kv .game__kv-txt {
+    max-width: 80%;
+  }
+  .game__answer li {
+    min-height: 4em;
+    font-size: 1.1em;
+  }
+  .game__read {
+    font-size: 4.5vw;
+  }
+}
+@media screen and (max-width: 400px) {
+  .game__kvImg {
+    margin-right: 5%;
+    width: 60%;
+  }
+  .game__title {
+    top: -5rem;
+    width: 100%;
+  }
+  .game__charaName {
+    bottom: 0;
+    width: 100%;
+  }
+  .game__kv {
+    padding-bottom: 5rem;
+  }
+  .game__kv .game__kv-txt {
+    max-width: 100%;
+  }
+  .game__charaImg {
+    bottom: 0;
+  }
+}
+
+.clear__inner {
+  position: relative;
+  max-width: 1200px;
+  margin: auto;
+  padding: 2em 0;
+}
+.clear__inner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 160px;
+  max-width: 30%;
+  margin: auto;
+  z-index: -1;
+  background: linear-gradient(rgba(255, 255, 255, 0), #fff), url(../../images/main/loading/bg.jpg) top center/cover no-repeat;
+}
+.clear__head {
+  display: flex;
+  justify-content: space-between;
+  max-width: 900px;
+  margin: auto;
+}
+.clear__name {
+  display: flex;
+  align-items: center;
+  border-bottom: 4px solid #fdbad5;
+  font-size: 3.6rem;
+  width: 40%;
+}
+.clear__name-egg {
+  width: 2.5em;
+  padding: 0.2em;
+}
+.clear__name-name {
+  padding: 0.5em;
+}
+.clear__comment {
+  position: relative;
+  border: 2px solid #6fc2ff;
+  background: #fff;
+  padding: 1em 1.5em;
+  margin: 0;
+}
+.clear__comment::after {
+  position: absolute;
+  bottom: -0.5em;
+  left: 1.5em;
+  content: "";
+  display: block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid;
+  border-color: transparent #6fc2ff #6fc2ff transparent;
+  background: #fff;
+  transform: rotate(45deg) skew(15deg, 15deg);
+}
+.clear__dialogue {
+  max-width: 600px;
+  margin: 2em auto;
+  font-size: 1.1em;
+  position: relative;
+}
+.clear__dialogue ul:nth-child(2) {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+[data-dialogue="main"] .clear__dialogue ul {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
+[data-dialogue="main"][data-ending="1"] .clear__dialogue ul, [data-dialogue="main"][data-ending="2"] .clear__dialogue ul {
+  flex-direction: column;
+}
+.clear__dialogue li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5em;
+}
+.clear__dialogue li::before {
+  content: "";
+  display: block;
+  width: 5em;
+  height: 5em;
+  max-width: 20%;
+  flex-shrink: 0;
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.clear__dialogue .clear__dialogue-natsume::before {
+  background-image: url(../../images/main/clear/natsume.png);
+}
+.clear__dialogue .clear__dialogue-elu::before {
+  background-image: url(../../images/main/clear/elu.png);
+}
+.clear__dialogue .clear__dialogue-saki::before {
+  background-image: url(../../images/main/clear/saki.png);
+}
+.clear__dialogue-txt {
+  position: relative;
+  width: 100%;
+  min-height: 4em;
+  line-height: 1.2;
+  border: 2px solid #6fc2ff;
+  background: #fff;
+  padding: 0.5em 1em;
+  margin: auto 0 auto 1.5em;
+  display: flex;
+  align-items: center;
+}
+.clear__dialogue-txt::after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -0.5em;
+  margin: auto;
+  content: "";
+  display: block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid;
+  border-color: transparent #6fc2ff #6fc2ff transparent;
+  background: #fff;
+  transform: rotate(135deg) skew(15deg, 15deg);
+}
+.clear__button {
+  text-align: center;
+}
+.clear__button button {
+  display: inline-block;
+  padding: 0.8em 1.5em;
+  background: #6fc2ff;
+  color: #fff;
+  font-family: "Rubik", "Noto Sans JP", "Noto Sans JP", "ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
+  font-weight: 300;
+  font-size: 2.8rem;
+  line-height: 1.2;
+  border-radius: 0.3em;
+}
+.clear__read {
+  display: flex;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 6em;
+  font-size: 1.5em;
+  color: #fff;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+  cursor: pointer;
+}
+.clear__read::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  opacity: 0.8;
+  z-index: -1;
+}
+.clear__read-txt {
+  position: relative;
+  padding: 1em;
+  z-index: 10;
+}
+.clear__read-bg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #0b3651;
+  z-index: -1;
+  overflow: hidden;
+}
+.clear__read-bg::before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: "";
+  border: 1px solid #51bcff;
+  filter: drop-shadow(0px 0px 0.25em #51bcff) drop-shadow(0px 0px 0.25em #51bcff) drop-shadow(0px 0px 0.25em #51bcff) drop-shadow(0px 0px 0.25em #51bcff);
+  z-index: 10;
+}
+@media screen and (max-width: 600px) {
+  .clear__head {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .clear__head > div {
+    width: 90%;
+    margin-bottom: 0.5em;
+  }
+  .clear__dialogue {
+    padding: 0 5%;
+  }
+  .clear__read {
+    font-size: 5vw;
+  }
+}
+
+.house__inner {
+  max-width: 900px;
+  padding: 0;
+  margin: auto;
+  display: flex;
+}
+.house__bg {
+  position: relative;
+  width: 160px;
+  max-width: 20%;
+  flex-shrink: 0;
+}
+.house__bg span {
+  position: sticky;
+  top: 0;
+  display: inline-block;
+}
+.house__main {
+  padding: 2em;
+}
+.house__main > div {
+  margin-bottom: 2em;
+}
+.house__head {
+  border-bottom: 4px solid #6fc2ff;
+  padding-bottom: 1em;
+}
+.house__chara {
+  min-height: 1.5em;
+  cursor: pointer;
+}
+.house__button > button {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5em;
+}
+.house__button-bird:not([data-ending="1"]) {
+  pointer-events: none;
+}
+.house__button-ph {
+  margin-right: 1em;
+}
+.house__button-ending {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+.house__button-ending > button {
+  margin: 0 0.5em 1.5em;
+}
+@media screen and (max-width: 600px) {
+  .house__bg {
+    max-width: 10%;
+  }
+  .house__bg img {
+    height: 100vh;
+    max-width: none;
+  }
+  .house__bg span {
+    overflow: hidden;
+    position: fixed;
+    top: 0 !important;
+    left: 0;
+    width: 10%;
+  }
+  .house__main {
+    padding: 0.5em;
+  }
+  .house__button-ending {
+    flex-direction: column-reverse;
+  }
+}
+
+.chara__inner {
+  max-width: 1400px;
+  margin: auto;
+  padding: 0 1em;
+  display: flex;
+}
+.chara__inner > div {
+  width: 50%;
+}
+.chara__head {
+  display: flex;
+  align-items: flex-end;
+  margin: auto;
+}
+.chara__head-ph {
+  width: 30%;
+  flex-shrink: 0;
+  border-radius: 300px;
+  border: 0.8rem solid #0b3651;
+}
+.chara__name {
+  display: flex;
+  align-items: center;
+  border-bottom: 4px solid #fdbad5;
+  font-size: 3.6rem;
+  width: 100%;
+  padding-bottom: 0.5em;
+}
+.chara__name-egg {
+  width: 3em;
+  padding: 0.2em;
+}
+.chara__name-name {
+  padding: 0.5em;
+}
+.chara__comment {
+  position: relative;
+  border: 2px solid #6fc2ff;
+  background: #fff;
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  transform: translateX(-10%);
+}
+.chara__comment::after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -0.5em;
+  margin: auto;
+  content: "";
+  display: block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid;
+  border-color: transparent #6fc2ff #6fc2ff transparent;
+  background: #fff;
+  transform: rotate(135deg) skew(15deg, 15deg);
+}
+.chara__dialogue {
+  max-width: 600px;
+  margin: 2em auto;
+  font-size: 1.1em;
+}
+.chara__dialogue li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5em;
+}
+.chara__dialogue li::before {
+  content: "";
+  display: block;
+  width: 5em;
+  height: 5em;
+  max-width: 20%;
+  flex-shrink: 0;
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.chara__dialogue-elu::before {
+  background-image: url(../../images/main/clear/elu.png);
+}
+.chara__dialogue-natsume::before {
+  background-image: url(../../images/main/clear/natsume.png);
+}
+.chara__dialogue-txt {
+  position: relative;
+  width: 100%;
+  min-height: 4em;
+  line-height: 1.2;
+  border: 2px solid #6fc2ff;
+  background: #fff;
+  padding: 0.5em 1em;
+  margin: auto 0 auto 1.5em;
+  display: flex;
+  align-items: center;
+}
+.chara__dialogue-txt::after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -0.5em;
+  margin: auto;
+  content: "";
+  display: block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid;
+  border-color: transparent #6fc2ff #6fc2ff transparent;
+  background: #fff;
+  transform: rotate(135deg) skew(15deg, 15deg);
+}
+.chara__button {
+  display: flex;
+  justify-content: center;
+}
+.chara__button > button {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5em;
+}
+.chara__button-ph {
+  margin-right: 1em;
+}
+@media screen and (max-width: 899px) {
+  .chara__inner {
+    flex-direction: column;
+    align-items: center;
+  }
+  .chara__inner > div {
+    width: 600px;
+    max-width: 100%;
+  }
+  .chara__comment {
+    transform: translate(0);
+  }
+  .chara__comment::after {
+    bottom: auto;
+    top: -0.45em;
+    left: 2em;
+    transform: rotate(-135deg) skew(15deg, 15deg);
+  }
+}
+@media screen and (max-width: 400px) {
+  .chara__button {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.comics__inner {
+  max-width: 800px;
+  margin: auto;
+}
+.comics__ph {
+  margin: 2em auto;
+}
+.comics__dialogue {
+  cursor: pointer;
+  position: relative;
+}
+.comics__dialogue::after {
+  content: "";
+  display: block;
+  height: 2em;
+  background: url(../../images/main/comics/next.png) bottom right/contain no-repeat;
+}
+[data-now="-1"] .comics__dialogue::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-position: center center;
+}
+.comics__dialogue ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 0;
+}
+.comics__dialogue li {
+  position: relative;
+  background: #0b3651;
+  z-index: -1;
+  overflow: hidden;
+  width: 100%;
+  padding: 1em 1.5em;
+  margin-bottom: 1em;
+  color: #fff;
+}
+.comics__dialogue li::before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: "";
+  border: 1px solid #51bcff;
+  filter: drop-shadow(0px 0px 0.25em #51bcff) drop-shadow(0px 0px 0.25em #51bcff) drop-shadow(0px 0px 0.25em #51bcff) drop-shadow(0px 0px 0.25em #51bcff);
+}
+.comics__dialogue li > div {
+  position: relative;
+}
+.comics__dialogue-name {
+  display: inline-block;
+  background: #53bbff;
+  padding: 0.2em 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 1;
+  border-radius: 0.4rem;
+}
+
+.fakeAds__inner {
+  max-width: 1200px;
+  margin: 2em auto;
+  text-align: center;
+  cursor: pointer;
+}
+
+.special__inner {
+  max-width: 900px;
+  padding: 0;
+  margin: auto;
+  display: flex;
+}
+.special__bg {
+  position: relative;
+  width: 160px;
+  max-width: 20%;
+  flex-shrink: 0;
+}
+.special__bg span {
+  position: sticky;
+  top: 0;
+  display: inline-block;
+}
+.special__main {
+  padding: 2em;
+  width: 100%;
+}
+.special__imgs {
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+.special__imgs li {
+  margin-bottom: 2.5em;
+}
+.special__imgs img {
+  width: 100%;
+}
+[data-chara="special"] .special__imgs {
+  max-width: 100%;
+  text-align: left;
+}
+.special__head {
+  font-family: "Rubik", "Noto Sans JP", "Noto Sans JP", "ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
+  font-weight: 300;
+  font-size: 3.5rem;
+  color: #6fc2ff;
+  margin: 0.25em 0 0.5em;
+  line-height: 1.1;
+}
+.special__head::before {
+  content: "▼";
+}
+.special__ph {
+  border: 1px solid #6fc2ff;
+}
+.special__button > button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 1.5em;
+}
+.special__button-ph {
+  margin-right: 1em;
+}
+@media screen and (max-width: 600px) {
+  .special__bg {
+    max-width: 10%;
+  }
+  .special__bg img {
+    height: 100vh;
+    max-width: none;
+  }
+  .special__bg span {
+    overflow: hidden;
+    position: fixed;
+    top: 0 !important;
+    left: 0;
+    width: 10%;
+  }
+  .special__main {
+    padding: 0.5em;
+  }
+}

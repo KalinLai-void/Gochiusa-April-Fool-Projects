@@ -1,0 +1,9 @@
+/* ==========共通指定========== */
+/* 全体基本指定(共通固定) */
+@import url("../../../common/common.css");
+@import url("../../../common/font.css");
+@import url("../../../common/float_fix.css");
+@import url("../../../user/user.css");
+
+/* スタイルパーツ呼び出し(共通固定) */
+@import url("../../common/style_parts.css");
