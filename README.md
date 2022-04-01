@@ -15,9 +15,6 @@
 不知道存活時間到什麼時候，有興趣的人歡迎自行下載來玩看看
 
 我也有用Github Pages架設網站，可以直接透過以下網址前往
-
-（目前網站暫已關閉）
-
 https://kalinlai-void.github.io/Is_Order_A_Rabbit/
 
 ---
