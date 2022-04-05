@@ -432,10 +432,10 @@
   text-align: center;
 }
 li[data-comp="1"] .start__list-txt::before {
-  content: "探索済み";
+  content: "已探索";
 }
 li[data-comp="open"] .start__list-txt::before {
-  content: "家の中で異変が起きている";
+  content: "屋子裡發生了什麼事？";
 }
 .start__button button {
   display: flex;

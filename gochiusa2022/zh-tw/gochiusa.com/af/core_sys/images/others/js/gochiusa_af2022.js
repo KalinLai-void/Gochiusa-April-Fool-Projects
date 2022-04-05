@@ -386,12 +386,12 @@ const tags = {
 	stageClear:'<div class="clear"><div class="clear__inner"><div class="clear__head"><div class="clear__name"><div class="clear__name-egg"><img src=""></div><div class="clear__name-name"></div></div><div class="clear__comment"></div></div><div class="clear__body"><div class="clear__chara"><img src="" alt=""></div><div class="clear__dialogue"><ul><li class="clear__dialogue-elu"><div class="clear__dialogue-txt"></div></li><li class="clear__dialogue-natsume"><div class="clear__dialogue-txt"></div></li></ul></div></div><div class="clear__button"><button type="button">STAGE CLEAR</button></div></div><div class="clear__read" style="display:none"><div class="clear__read-txt"></div><div class="clear__read-bg"></div></div></div>',
 	house:[
 		'<div class="house"><div class="house__inner"><div class="house__bg"><span><img src="'+storyImg[0].src+'"></span></div><div class="house__main"><div class="house__head">見つけた鳥を確認できます</div><div class="house__list"><ul>',
-		'</ul></div><div class="house__button"><button type="button" class="house__button-bird"><div class="house__button-ph"><img src="'+houseImg[9].src+'"></div><div class="house__button-cap">最近よく来る鳥です<br>気にしないでください</div></button><button type="button" class="house__button-door" data-type="start"><div class="house__button-ph"><img src="'+homeImg[1].src+'"></div><div class="house__button-cap">出掛ける</div></button></div></div></div></div>'
+		'</ul></div><div class="house__button"><button type="button" class="house__button-bird"><div class="house__button-ph"><img src="'+houseImg[9].src+'"></div><div class="house__button-cap">最近よく来る鳥です<br>気にしないでください</div></button><button type="button" class="house__button-door" data-type="start"><div class="house__button-ph"><img src="'+homeImg[1].src+'"></div><div class="house__button-cap">離開</div></button></div></div></div></div>'
 	],
-	chara:'<div class="chara"><div class="chara__inner"><div class="chara__img"><img src=""></div><div class="chara__txt"><div class="chara__comment"></div><div class="chara__head"><div class="chara__name"><div class="chara__name-egg"><img src=""></div><div class="chara__name-name"></div></div><div class="chara__head-ph"><img src=""></div></div><div class="chara__dialogue"><ul><li class="chara__dialogue-elu"><div class="chara__dialogue-txt"></div></li><li class="chara__dialogue-natsume"><div class="chara__dialogue-txt"></div></li></ul></div><div class="chara__button"><button type="button" class="chara__button-dl"><div class="house__button-ph"><img src="core_sys/images/main/chara/dl.png"></div><div class="house__button-cap">写真を撮る</div></button><button type="button" class="chara__button-door" data-stage="07"><div class="house__button-ph"><img src="core_sys/images/main/start/door7.png"></div><div class="house__button-cap">部屋を出る</div></button></div></div></div></div>',
+	chara:'<div class="chara"><div class="chara__inner"><div class="chara__img"><img src=""></div><div class="chara__txt"><div class="chara__comment"></div><div class="chara__head"><div class="chara__name"><div class="chara__name-egg"><img src=""></div><div class="chara__name-name"></div></div><div class="chara__head-ph"><img src=""></div></div><div class="chara__dialogue"><ul><li class="chara__dialogue-elu"><div class="chara__dialogue-txt"></div></li><li class="chara__dialogue-natsume"><div class="chara__dialogue-txt"></div></li></ul></div><div class="chara__button"><button type="button" class="chara__button-dl"><div class="house__button-ph"><img src="core_sys/images/main/chara/dl.png"></div><div class="house__button-cap">拍照</div></button><button type="button" class="chara__button-door" data-stage="07"><div class="house__button-ph"><img src="core_sys/images/main/start/door7.png"></div><div class="house__button-cap">離開房間</div></button></div></div></div></div>',
 	comics:'<div class="comics"><div class="comics__inner"><div class="comics__ph"><img src="core_sys/images/main/game/ed.png" ></div><div class="comics__dialogue"><ul><li class="comics__dialogue-elu"><div class="comics__dialogue-name">エル</div><div class="comics__dialogue-txt"></div></li><li class="comics__dialogue-natsume"><div class="comics__dialogue-name">ナツメ</div><div class="comics__dialogue-txt"></div></li></ul></div></div></div>',
 	fakeAds:'<div class="fakeAds"><div class="fakeAds__inner"><img src="'+comicsImg[7].src+'"></div></div>',
-	special:'<div class="special"><div class="special__inner"><div class="special__bg"><span><img src="'+specialImg[0].src+'"></span></div><div class="special__main"><ul class="special__imgs"><li><div class="special__head"></div><div class="special__ph"><a href="#" download><img src="#" alt=""></a></div></li><li><div class="special__head"></div><div class="special__ph"><a href="#" download><img src="#" alt=""></a></div></li></ul><div class="special__button"><button type="button" class="special__button-home"><div class="special__button-ph"><img src="'+homeImg[1].src+'"></div><div class="special__button-cap">部屋を出る</div></button></div></div></div></div>',
+	special:'<div class="special"><div class="special__inner"><div class="special__bg"><span><img src="'+specialImg[0].src+'"></span></div><div class="special__main"><ul class="special__imgs"><li><div class="special__head"></div><div class="special__ph"><a href="#" download><img src="#" alt=""></a></div></li><li><div class="special__head"></div><div class="special__ph"><a href="#" download><img src="#" alt=""></a></div></li></ul><div class="special__button"><button type="button" class="special__button-home"><div class="special__button-ph"><img src="'+homeImg[1].src+'"></div><div class="special__button-cap">離開房間</div></button></div></div></div></div>',
 }
 const stageTxt = {
 	game:{
@@ -512,7 +512,7 @@ const stageTxt = {
 	},
 	clear:{
 		'01':{
-			name:'ここあ',
+			name:'心愛',
 			comment:'生まれたてのおねえちゃんだよ！<br>おねえちゃんにまかせなさーい！',
 			dialogue:[
 				'わぁ、この子パンの香りがするよ！',
@@ -521,7 +521,7 @@ const stageTxt = {
 			result:'持ち帰った卵は青い鳥ではなかった<br>※ここあを自宅で確認できるようになりました',
 		},
 		'02':{
-			name:'めぐ',
+			name:'惠',
 			comment:'わぁっ、これは風邪っぽいですねー。<br>しんぞういしょくしなければ！術式開始です！',
 			dialogue:[
 				'ナツメちゃんの心臓に何かあったら私ドナーになるから！',
@@ -530,7 +530,7 @@ const stageTxt = {
 			result:'持ち帰った卵は青い鳥ではなかった<br>※めぐを自宅で確認できるようになりました',
 		},
 		'03':{
-			name:'ちや',
+			name:'千夜',
 			comment:'つぶあん派？こしあん派？<br>わたしはあまうさあん派―♪',
 			dialogue:[
 				'わたしはミックス派！',
@@ -539,7 +539,7 @@ const stageTxt = {
 			result:'持ち帰った卵は青い鳥ではなかった<br>※ちやを自宅で確認できるようになりました',
 		},
 		'04':{
-			name:'しゃろ',
+			name:'紗路',
 			comment:'わたしの事やきとりにする気でしょ…！<br>こわい…！',
 			dialogue:[
 				'大丈夫！ちょっと拉致するだけだから！',
@@ -548,7 +548,7 @@ const stageTxt = {
 			result:'持ち帰った卵は青い鳥ではなかった<br>※しゃろを自宅で確認できるようになりました',
 		},
 		'05':{
-			name:'まや',
+			name:'麻耶',
 			comment:'なんだよーその目はー！<br>ペンギンだって立派なちょーるいだぞー！',
 			dialogue:[
 				'ペンギンなのに、背中に羽が生えてるー♪',
@@ -557,7 +557,7 @@ const stageTxt = {
 			result:'持ち帰った卵は青い鳥ではなかった<br>※まやを自宅で確認できるようになりました',
 		},
 		'06':{
-			name:'りぜ',
+			name:'理世',
 			comment:'生きのこるのは悪いやつばかりだ。<br>りぜは…悪い子だ…こっそりケーキつまみ食いした。',
 			dialogue:[
 				'やはり生き残るには…悪になるしか…',
@@ -566,7 +566,7 @@ const stageTxt = {
 			result:'持ち帰った卵は青い鳥ではなかった<br>※りぜを自宅で確認できるようになりました',
 		},
 		'07':{
-			name:'ちの',
+			name:'智乃',
 			comment:'この白いもふもふは親友のてぃっぴー。<br>まつ毛がちゃーむぽいんとっておじいちゃんが言ってた。',
 			dialogue:[
 				'なんかずっと飲みたかったコーヒーの香りがするー。',
@@ -575,7 +575,7 @@ const stageTxt = {
 			result:'持ち帰った卵は青い鳥ではなかった<br>※りぜを自宅で確認できるようになりました',
 		},
 		'08':{
-			name:'ふゆ',
+			name:'冬優',
 			comment:'………とり…好き？<br>「まぁ吾輩が好きなのは猫だがね」',
 			dialogue:[
 				'え、服の猫で腹話術？すごい！',
