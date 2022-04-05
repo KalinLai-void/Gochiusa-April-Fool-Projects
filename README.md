@@ -16,29 +16,29 @@ https://kalinlai-void.github.io/Is_Order_A_Rabbit/<br>
 ## 歷年清單
 
 ### 2015 魔法少女チノ
-[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2015/index.html)
+[快速連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2015/index.html)
 
 ### 2016 怪盗ラパン
-[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2016/index.html)
+[快速連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2016/index.html)
 
 ### 2017 チマメクロニクル
-[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2017/index.html)
+[快速連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2017/index.html)
 
 ### 2018 Daydream☆SHOW
-[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2018/index.html)
+[快速連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2018/index.html)
 
 ### 2019 CLOCKWORK RABBIT
-[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2019/index.html)
+[快速連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2019/index.html)
 
 ### 2020 Regene Play Rabbits
-[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2020/index.html)
+[快速連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2020/index.html)
 
 ### 2021 Seven Rabbits Sins
-[日文原版連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2021/ja/index.html)<br>
-[中文原版連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2021/zh-tw/index.html)
+[日文原版快速連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2021/ja/index.html)<br>
+[中文版快速連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2021/zh-tw/index.html)
 
 ### 2022 TAKE OUT BLUE BIRD
-[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2022/ja/index.html)<br>
+[快速連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2022/ja/index.html)<br>
 這年開始有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
 
 ---
