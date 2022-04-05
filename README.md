@@ -2,39 +2,43 @@
 # 點兔歷年愚人節企劃（網站備份）
 
 ## 前言
-此為點兔官方每年愚人節之企劃設立的網站備份。
-
-點兔動畫官網：https://gochiusa.com/
-
-本人僅整理為一個大網站，感謝騎士團大佬幫忙抓下整個網站，便於我整合。
-
-※ 僅做為推廣及學習用途，本人不涉及任何商業行為。
-
-
-不知道存活時間到什麼時候，有興趣的人歡迎自行 clone 或 fork 來玩看看。
-
-也有用 Github Pages 架設網站，可以直接透過以下網址前往。
-
-https://kalinlai-void.github.io/Is_Order_A_Rabbit/
+此為點兔官方每年愚人節之企劃設立的網站備份。<br>
+點兔動畫官網：https://gochiusa.com/<br>
+<br>
+本人僅整理為一個大網站，感謝騎士團大佬幫忙抓下整個網站，便於我整合。<br>
+※ 僅做為推廣及學習用途，本人不涉及任何商業行為。<br>
+<br>
+不知道存活時間到什麼時候，有興趣的人歡迎自行 clone 或 fork 來玩看看。<br>
+也有用 Github Pages 架設網站，可以直接透過以下網址前往。<br>
+https://kalinlai-void.github.io/Is_Order_A_Rabbit/<br>
 
 ---
 ## 歷年清單
 
 ### 2015 魔法少女チノ
+[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2015/index.html)
 
 ### 2016 怪盗ラパン
+[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2016/index.html)
 
 ### 2017 チマメクロニクル
+[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2017/index.html)
 
 ### 2018 Daydream☆SHOW
+[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2018/index.html)
 
 ### 2019 CLOCKWORK RABBIT
+[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2019/index.html)
 
 ### 2020 Regene Play Rabbits
+[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2020/index.html)
 
 ### 2021 Seven Rabbits Sins
+[日文原版連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2021/ja/index.html)<br>
+[中文原版連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2021/zh-tw/index.html)
 
 ### 2022 TAKE OUT BLUE BIRD
+[連結](https://kalinlai-void.github.io/Is_Order_A_Rabbit/gochiusa2022/ja/index.html)
 這年開始有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
 
 ---
