@@ -1,4 +1,4 @@
-# Is Order A Rabbit?
+# Is the order a rabbit? （Gochiusa）
 # 點兔歷年愚人節企劃（網站備份）
 
 ## 前言
