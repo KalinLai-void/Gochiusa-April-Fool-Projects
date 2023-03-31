@@ -33,6 +33,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 ### 2022 TAKE OUT BLUE BIRD [快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/ja/index.html)
 > 這年開始有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
 
+### 2023 銀河特急ラビットハウス (待更新...)
+
 ---
 ## 翻譯志願徵求
 - 目前僅 2021 有繁中版翻譯（抱歉我怠惰，加上我日文不好，只能把巴哈版上 or FB社團「點兔騎士團」的翻譯的打進去並修飾），若有大佬可以提供翻譯，也可以主動聯繫我，我再整合進去。
