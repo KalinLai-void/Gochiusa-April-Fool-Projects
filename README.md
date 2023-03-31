@@ -16,21 +16,21 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 ---
 ## 歷年清單
 
-### 2015 魔法少女チノ <small>[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2015/index.html)</small>
+### 2015 魔法少女チノ <span style="font-size: 16px">[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2015/index.html)</span>
 
-### 2016 怪盗ラパン <small>[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2016/index.html)</small>
+### 2016 怪盗ラパン <span style="font-size: 16px">[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2016/index.html)</span>
 
-### 2017 チマメクロニクル <small>[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2017/index.html) </small>
+### 2017 チマメクロニクル <span style="font-size: 16px">[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2017/index.html) </span>
 
-### 2018 Daydream☆SHOW <small>[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2018/index.html)</small>
+### 2018 Daydream☆SHOW <span style="font-size: 16px">[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2018/index.html)</span>
 
-### 2019 CLOCKWORK RABBIT <small>[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2019/index.html)</small>
+### 2019 CLOCKWORK RABBIT <span style="font-size: 16px">[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2019/index.html)</span>
 
-### 2020 Regene Play Rabbits <small>[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2020/index.html)</small>
+### 2020 Regene Play Rabbits <span style="font-size: 16px">[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2020/index.html)</span>
 
-### 2021 Seven Rabbits Sins <small>[日文原版快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/ja/index.html) </small> <small>[中文版快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/zh-tw/index.html)</small>
+### 2021 Seven Rabbits Sins <span style="font-size: 16px">[日文原版快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/ja/index.html) </span> <span style="font-size: 16px">[中文版快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/zh-tw/index.html)</span>
 
-### 2022 TAKE OUT BLUE BIRD <small>[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/ja/index.html)</small>
+### 2022 TAKE OUT BLUE BIRD <span style="font-size: 16px">[快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/ja/index.html)</span>
 這年開始有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
 
 ---
