@@ -33,7 +33,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 ### 2022 TAKE OUT BLUE BIRD [![快速連結 - 日文原版](https://img.shields.io/badge/快速連結-日文原版-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/ja/index.html)
 > 這年開始有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
 
-### 2023 銀河特急ラビットハウス (待更新...)
+### 2023 銀河特急ラビットハウス [![快速連結 - 日文原版](https://img.shields.io/badge/快速連結-日文原版-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/index.html)
 
 ---
 ## 翻譯志願徵求

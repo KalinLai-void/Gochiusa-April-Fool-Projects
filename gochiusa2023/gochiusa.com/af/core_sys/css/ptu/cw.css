@@ -1,0 +1,10 @@
+@charset "utf-8";
+.copyright {
+  font-size: 1.2rem;
+  text-align: right;
+  padding: 0;
+  margin: auto;
+  position: absolute;
+  bottom: 0;
+  right:0;
+}
