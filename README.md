@@ -30,7 +30,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2021 Seven Rabbits Sins <small>[日文原版快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/ja/index.html) </small> <small>[中文版快速連結](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/zh-tw/index.html)</small>
 
-<h3> 2022 TAKE OUT BLUE BIRD <a href="https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/ja/index.html" style="font-size: smaller;">快速連結</a></h3>
+<h3> 2022 TAKE OUT BLUE BIRD <a href="https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/ja/index.html" style="font-size: 14px;">快速連結</a></h3>
 > 這年開始有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
 
 ---
