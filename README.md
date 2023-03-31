@@ -28,7 +28,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2020 Regene Play Rabbits [![快速連結 - 日文原版](https://img.shields.io/badge/快速連結-日文原版-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2020/index.html)
 
-### 2021 Seven Rabbits Sins [![快速連結 - 日文原版](https://img.shields.io/badge/快速連結-日文原版-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/ja/index.html)  [![快速連結 - 中文版](https://img.shields.io/badge/快速連結-中文版-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/zh-tw/index.html)
+### 2021 Seven Rabbits Sins [![快速連結 - 日文原版](https://img.shields.io/badge/快速連結-日文原版-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/ja/index.html)  [![快速連結 - 中文版](https://img.shields.io/badge/快速連結-中文版-red)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/zh-tw/index.html)
 
 ### 2022 TAKE OUT BLUE BIRD [![快速連結 - 日文原版](https://img.shields.io/badge/快速連結-日文原版-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/ja/index.html)
 > 這年開始有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
