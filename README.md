@@ -31,7 +31,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 ### 2021 Seven Rabbits Sins [![快速連結 - 日文原版](https://img.shields.io/badge/快速連結-日文原版-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/ja/index.html)  [![快速連結 - 中文版](https://img.shields.io/badge/快速連結-中文版-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/zh-tw/index.html)
 
 ### 2022 TAKE OUT BLUE BIRD [![快速連結 - 日文原版](https://img.shields.io/badge/快速連結-日文原版-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/ja/index.html)
-> 這年開始有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
+> 這年有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
 
 ### 2023 銀河特急ラビットハウス [![快速連結 - 日文原版](https://img.shields.io/badge/快速連結-日文原版-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/index.html)
 
