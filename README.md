@@ -24,7 +24,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2018 Daydream☆SHOW [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2018/gochiusa.com/af/index.html)
 
-### 2019 CLOCKWORK RABBIT [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2019/gochiusa.com/af/index.html)
+### 2019 CLOCKWORK RABBIT [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2019/gochiusa.com/index.html)
 
 ### 2020 Regene Play Rabbits [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2020/gochiusa.com/af/index.html)
 
