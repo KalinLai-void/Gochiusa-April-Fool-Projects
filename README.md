@@ -36,5 +36,19 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 ### 2023 銀河特急ラビットハウス [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/ja/gochiusa.com/af/index.html) [![快速連結 - 英文](https://img.shields.io/badge/快速連結-英文-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/en/gochiusa.com/af/index.html)
 
 ---
+## 更新日誌(?)：
+#### 2021/02/01
+- 將2015~2020的網站上傳至Github。
+#### 2021/04/01
+- 更新2021年的愚人節企劃網站。
+- 新增2021年中文版網頁(翻譯 from [葉子](https://drive.google.com/drive/folders/18wBTug8KaPq2TH4SVcePVXZ9SBg5YlVJ?fbclid=IwAR0wG9G2LLAaM3O3X6wLgpqxfR-LARqohXf2t21X1LPas6RZiO9LAfvH1Ac))。
+#### 2022/04/01
+- 更新2022年的愚人節企劃網站。
+#### 2023/04/01
+- 更新2023年的愚人節企劃網站。
+- 更新主頁，加了點設計，並做成RWD網頁。
+- 新增2021、2023英文版網頁(翻譯 from [Gochi_AI](https://github.com/gochiAI))。
+
+---
 ## 翻譯志願徵求
 - 目前僅 2021 有繁中版翻譯（抱歉我怠惰，加上我日文不好，只能把巴哈點兔板上 or FB社團「點兔騎士團」的翻譯的打進去並修飾），若有大佬可以提供翻譯，也可以主動聯繫我，我再整合進去。
