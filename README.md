@@ -30,7 +30,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2021 Seven Rabbits Sins [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index.html) [![快速連結 - 英文](https://img.shields.io/badge/快速連結-英文-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-en.html)  [![快速連結 - 中文](https://img.shields.io/badge/快速連結-中文-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-zh-tw.html)
 
-### 2022 TAKE OUT BLUE BIRD [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/ja/gochiusa.com/af/index.html)
+### 2022 TAKE OUT BLUE BIRD [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index.html)
 > 這年有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
 
 ### 2023 銀河特急ラビットハウス [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index.html) [![快速連結 - 英文](https://img.shields.io/badge/快速連結-英文-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index-en.html)
