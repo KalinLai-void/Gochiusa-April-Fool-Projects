@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-20:09:20	183/183	---M--	301	error ('Moved%20Permanently')	text/html	date:Fri,%2017%20Apr%202020%2012:09:19%20GMT	http://gochiusa.com/robots.txt		(from )
-20:09:20	183/183	---M--	301	error ('Moved%20Permanently')	text/html	date:Fri,%2017%20Apr%202020%2012:09:19%20GMT	http://gochiusa.com/af/	D:/gochiusa%2020150401/gochiusa20150401/gochiusa.com/af/index.html	(from )

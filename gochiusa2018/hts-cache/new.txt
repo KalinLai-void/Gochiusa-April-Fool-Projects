@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-18:26:09	310/310	---M--	404	error ('Not%20Found')	text/html	etag:%223fe2404938ac42d3770825d4caacfb57%22	https://gochiusa.com/robots.txt		(from )
-18:26:09	310/310	---M--	404	error ('Not%20Found')	text/html	etag:%223fe2404938ac42d3770825d4caacfb57%22	https://gochiusa.com/af/core_sys/images/others/audio/	C:/My%20Websites/7890/index-2.html	(from )
