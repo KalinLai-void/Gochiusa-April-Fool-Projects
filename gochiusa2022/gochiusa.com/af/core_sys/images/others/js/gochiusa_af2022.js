@@ -255,7 +255,7 @@ const numToChara = ['cocoa','megu','chiya','syaro','maya','rize','chino','fuyu',
 
 
 const tags = {
-	copyright:'<div class="copyright"><p>©Koi・芳文社／ご注文はBLOOM製作委員会ですか？<br>このホームページに掲載されている一切の文書・図版・写真等を、手段や形態を問わず複製、転載することを禁じます。</p></div>',
+	copyright:'<div class="copyright"><p>©Koi・芳文社／ご注文はBLOOM製作委員会ですか？</p></div>',
 	loading:'<div class="loading__wrap"><div class="loading__inner"><div class="loading__logo"><ul><li><img src="'+loadingImg[0].src+'"></li><li><img src="'+loadingImg[1].src+'"></li><li><img src="'+loadingImg[2].src+'"></li></ul><p>PRESENTS</p></div><div class="loading__txt"></div></div></div>',
 	home:'<div class="home__wrap">'+
 		'	<div class="home__inner">'+
