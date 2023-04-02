@@ -7,7 +7,7 @@
 《點兔》TV動畫官網：https://gochiusa.com/<br>
 <br>
 部分資源及翻譯感謝[FB社團](https://www.facebook.com/groups/1473402019387376)及[巴哈點兔板](https://forum.gamer.com.tw/A.php?bsn=45294)的大佬，也感謝[國外資源](https://gochiusa.fandom.com/wiki/Official_April_Fool%27s_Projects.)，便於我整合歷年網站。<br>
-** ※ 僅做為推廣及學習用途，本人不涉及任何商業行為。 ** 
+<b> ※ 僅做為推廣及學習用途，本人不涉及任何商業行為。 </b>
 <br><br>
 不知道可以存活時間到什麼時候，有興趣的人歡迎自行 clone 或 fork 來玩看看。也可以直接透過以下網址前往。<br>
 https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
