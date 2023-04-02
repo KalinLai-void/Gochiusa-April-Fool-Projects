@@ -1,6 +1,6 @@
 # 點兔歷年愚人節企劃（網站備份）
 
-[English README](README.md)[繁體中文 README](README_zh-tw.md)
+[[English README](README.md)][[繁體中文 README](README_zh-tw.md)]
 
 ## 前言
 此為非官方的《點兔》歷年愚人節企劃設立的網站備份。<br>

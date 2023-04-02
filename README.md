@@ -1,7 +1,7 @@
 # Is the order a rabbit? （Gochiusa）
 # History of April Fool's Projects Website Backup
 
-[English README](README.md) [繁體中文 README](README_zh-tw.md)
+[[English README](README.md)][[繁體中文 README](README_zh-tw.md)]
 
 ## Preface
 This repo is an unoffical mirror website of *Gochiusa* April Fool's projects.<br>
