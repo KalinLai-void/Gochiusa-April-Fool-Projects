@@ -54,6 +54,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - Updated home page, add some design, and make it into RWD page. 
 - Added EN translation to 2021 & 2023 website. (Translation from [Gochi_AI](https://github.com/gochiAI))
 - Fixed some zh-TW translation in 2021 website.（Thanks [胡地](https://home.gamer.com.tw/homeindex.php?owner=eten851229)）
+- Cleaned up all website, delete many trash file. 
+- Fixed twitter area in some website wrong display issue.
 
 ---
 ## Seeking translation volunteer (zh-TW/EN)

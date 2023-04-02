@@ -4,7 +4,7 @@
 
 ## 前言
 此為非官方的《點兔》歷年愚人節企劃設立的網站備份。<br>
-《點兔》TV動畫官網：https://gochiusa.com/<br>
+《點兔》TV 動畫官網：https://gochiusa.com/<br>
 <br>
 部分資源及翻譯感謝[FB社團](https://www.facebook.com/groups/1473402019387376)及[巴哈點兔板](https://forum.gamer.com.tw/A.php?bsn=45294)的大佬，也感謝[國外資源](https://gochiusa.fandom.com/wiki/Official_April_Fool%27s_Projects.)，便於我整合歷年網站。<br>
 <b> ※ 僅做為推廣及學習用途，本人不涉及任何商業行為。 </b>
@@ -37,17 +37,19 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 ---
 ## 更新日誌(?)：
 #### 2020/04/23
-- 將2015~2020的網站上傳至Github。
+- 將 2015~2020 的網站上傳至 Github。
 #### 2021/04/01
-- 更新2021年的愚人節企劃網站。
-- 新增2021年繁中版網頁(翻譯 from [葉子](https://drive.google.com/drive/folders/18wBTug8KaPq2TH4SVcePVXZ9SBg5YlVJ?fbclid=IwAR0wG9G2LLAaM3O3X6wLgpqxfR-LARqohXf2t21X1LPas6RZiO9LAfvH1Ac))。
+- 更新 2021 年的愚人節企劃網站。
+- 新增 2021 年繁中版網頁(翻譯 from [葉子](https://drive.google.com/drive/folders/18wBTug8KaPq2TH4SVcePVXZ9SBg5YlVJ?fbclid=IwAR0wG9G2LLAaM3O3X6wLgpqxfR-LARqohXf2t21X1LPas6RZiO9LAfvH1Ac))。
 #### 2022/04/01
 - 更新2022年的愚人節企劃網站。
 #### 2023/04/01
 - 更新2023年的愚人節企劃網站。
-- 更新主頁，加了點設計，並做成RWD網頁。
+- 更新主頁，加了點設計，並做成 RWD 網頁。
 - 新增2021、2023英文版網頁(翻譯 from [Gochi_AI](https://github.com/gochiAI))。
 - 修正2021部分繁中翻譯（感謝[胡地](https://home.gamer.com.tw/homeindex.php?owner=eten851229)協助）。
+- 整理一下歷年的網站，刪除許多垃圾檔案。
+- 修復早年 Twitter 頁面跑不出來的問題，並保留當年的樣子。（2020沒修）
 
 ---
 ## 翻譯志願徵求（繁中or英文都可）
