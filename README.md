@@ -61,6 +61,6 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ---
 ## Seeking translation volunteer (zh-TW/EN)
-- Now only 2021 website has zh-TW. And 2021 & 2023 has EN.
+- Now just some website have EN & zh-TW translation.
 - My Japanese is not great, so I only find some resources from community and key in.
 - If anyone can provide translation, you can contact me, I will integrate to this repo.
