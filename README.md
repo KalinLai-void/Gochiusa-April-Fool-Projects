@@ -11,7 +11,9 @@ Here backed up and integrated primary.<br>
 Some assets and translations of Chinese Traditional are from [FB Group](https://www.facebook.com/groups/1473402019387376) and [Gochiusa community in Bahamut](https://forum.gamer.com.tw/A.php?bsn=45294). And some assets and translations of English is from [this website's backup](https://gochiusa.fandom.com/wiki/Official_April_Fool%27s_Projects.).<br>
 I am very grateful for above resources, they let me organize conveniently.<br>
 <br><br>
-I don't know how long this repo can survuve. If you are interested, you can clone or fork this repo yourself. You can also throught the link in following.<br>
+I don't know how long this repo can survive.<br>
+If you are interested, you can clone or fork this repo yourself.<br>
+You can also throught the link in following.<br>
 https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 <b> ※ This repo just only for learning purposes. </b>
 
