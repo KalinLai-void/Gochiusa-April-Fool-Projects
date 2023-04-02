@@ -29,7 +29,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2021 Seven Rabbits Sins [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index.html) [![快速連結 - 英文](https://img.shields.io/badge/快速連結-英文-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-en.html)  [![快速連結 - 繁中](https://img.shields.io/badge/快速連結-繁中-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-zh-tw.html)
 
-### 2022 TAKE OUT BLUE BIRD [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index.html)
+### 2022 TAKE OUT BLUE BIRD [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index.html) [![快速連結 - 繁中](https://img.shields.io/badge/快速連結-繁中-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index-zh-tw.html)
 > 這年有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
 
 ### 2023 銀河特急ラビットハウス [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index.html) [![快速連結 - 英文](https://img.shields.io/badge/快速連結-英文-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index-en.html)
@@ -40,16 +40,18 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - 將 2015~2020 的網站上傳至 Github。
 #### 2021/04/01
 - 更新 2021 年的愚人節企劃網站。
-- 新增 2021 年繁中版網頁(翻譯 from [葉子](https://drive.google.com/drive/folders/18wBTug8KaPq2TH4SVcePVXZ9SBg5YlVJ?fbclid=IwAR0wG9G2LLAaM3O3X6wLgpqxfR-LARqohXf2t21X1LPas6RZiO9LAfvH1Ac))。
+- 新增 2021 年繁中版網頁 (翻譯 from [葉子](https://drive.google.com/drive/folders/18wBTug8KaPq2TH4SVcePVXZ9SBg5YlVJ?fbclid=IwAR0wG9G2LLAaM3O3X6wLgpqxfR-LARqohXf2t21X1LPas6RZiO9LAfvH1Ac))。
 #### 2022/04/01
 - 更新2022年的愚人節企劃網站。
 #### 2023/04/01
-- 更新2023年的愚人節企劃網站。
+- 更新 2023 年的愚人節企劃網站。
 - 更新主頁，加了點設計，並做成 RWD 網頁。
-- 新增2021、2023英文版網頁(翻譯 from [Gochi_AI](https://github.com/gochiAI))。
-- 修正2021部分繁中翻譯（感謝[胡地](https://home.gamer.com.tw/homeindex.php?owner=eten851229)協助）。
+- 新增 2021、2023 英文版網頁 (翻譯 from [Gochi_AI](https://github.com/gochiAI))。
+- 修正 2021 部分繁中翻譯（感謝[胡地](https://home.gamer.com.tw/homeindex.php?owner=eten851229)協助）。
 - 整理一下歷年的網站，刪除許多垃圾檔案。
 - 修復早年 Twitter 頁面跑不出來的問題，並保留當年的樣子。（2020沒修）
+#### 2023/04/02
+- 新增 2022 繁中版網站 (感謝[胡地](https://home.gamer.com.tw/homeindex.php?owner=eten851229)協助翻譯)。
 
 ---
 ## 翻譯志願徵求（繁中or英文都可）
