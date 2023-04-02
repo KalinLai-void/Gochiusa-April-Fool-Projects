@@ -1,54 +1,59 @@
 # Is the order a rabbit? （Gochiusa）
-# 點兔歷年愚人節企劃（網站備份）
-((( 之後有空再打個日文版+英文版的README好了...🤔
+# History of April Fool's Projects Website Backup
 
-## 前言
-此為點兔官方每年愚人節之企劃設立的網站備份。<br>
-點兔動畫官網：https://gochiusa.com/<br>
+[English README](README.md)[繁體中文 README](README_zh-tw.md)
+
+## Preface
+This repo is an unoffical mirror website of *Gochiusa* April Fool's projects. Here backed up and integrated primary.<br>
+*Gochiusa* TV Anime Offical Website: https://gochiusa.com/<br>
 <br>
-部分資源及翻譯感謝[FB社團](https://www.facebook.com/groups/1473402019387376)及[巴哈點兔板](https://forum.gamer.com.tw/A.php?bsn=45294)的大佬幫忙抓下網站，便於我整合歷年網站。<br>
-※ 僅做為推廣及學習用途，本人不涉及任何商業行為。<br>
-<br>
-不知道存活時間到什麼時候，有興趣的人歡迎自行 clone 或 fork 來玩看看。<br>
-也有用 Github Pages 架設網站，可以直接透過以下網址前往。<br>
+Some assets and translations of Chinese Traditional are from [FB Group](https://www.facebook.com/groups/1473402019387376) and [Gochiusa community in Bahamut](https://forum.gamer.com.tw/A.php?bsn=45294). And some assets and translations of English is from [this website's backup](https://gochiusa.fandom.com/wiki/Official_April_Fool%27s_Projects.).<br>
+I am very grateful for above resources, they let me organize conveniently.
+** ※ This repo just only for learning purposes. ** 
+<br><br>
+I don't know how long this repo can survuve. If you are interested, you can clone or fork this repo yourself. You can also throught the link in following.<br>
 https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ---
-## 歷年清單
+## Project list over the years
 
-### 2015 魔法少女チノ [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2015/gochiusa.com/af/index.html)
+### 2015 魔法少女チノ [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2015/gochiusa.com/af/index.html)
 
-### 2016 怪盗ラパン [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2016/gochiusa.com/af/index.html)
+### 2016 怪盗ラパン [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2016/gochiusa.com/af/index.html)
 
-### 2017 チマメクロニクル [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2017/gochiusa.com/af/index.html) 
+### 2017 チマメクロニクル [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2017/gochiusa.com/af/index.html) 
 
-### 2018 Daydream☆SHOW [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2018/gochiusa.com/af/index.html)
+### 2018 Daydream☆SHOW [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2018/gochiusa.com/af/index.html)
 
-### 2019 CLOCKWORK RABBIT [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2019/gochiusa.com/index.html)
+### 2019 CLOCKWORK RABBIT [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2019/gochiusa.com/index.html)
 
-### 2020 Regene Play Rabbits [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2020/gochiusa.com/af/index.html)
+### 2020 Regene Play Rabbits [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2020/gochiusa.com/af/index.html)
 
-### 2021 Seven Rabbits Sins [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index.html) [![快速連結 - 英文](https://img.shields.io/badge/快速連結-英文-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-en.html)  [![快速連結 - 中文](https://img.shields.io/badge/快速連結-中文-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-zh-tw.html)
+### 2021 Seven Rabbits Sins [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index.html) [![Link - EN](https://img.shields.io/badge/Link-EN-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-en.html)  [![Link - zh-TW](https://img.shields.io/badge/Link-zh-TW-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-zh-tw.html)
 
-### 2022 TAKE OUT BLUE BIRD [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index.html)
-> 這年有使用 Cookies 來儲存資料，因此可能需要架設簡單的 server 才能在自己的電腦端運行。
+### 2022 TAKE OUT BLUE BIRD [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index.html)
+> It used cookies technique to store data in this year.
+> If you want to run in your computer, you may set up an easy website server.
 
-### 2023 銀河特急ラビットハウス [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index.html) [![快速連結 - 英文](https://img.shields.io/badge/快速連結-英文-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index-en.html)
+### 2023 銀河特急ラビットハウス [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index.html) [![Link - EN](https://img.shields.io/badge/Link-EN-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index-en.html)
 
 ---
-## 更新日誌(?)：
-#### 2021/02/01
-- 將2015~2020的網站上傳至Github。
+## Update Log(?)：
+#### 2020/04/23
+- Pushed the website of 2015~2020 to Github.
 #### 2021/04/01
-- 更新2021年的愚人節企劃網站。
-- 新增2021年中文版網頁(翻譯 from [葉子](https://drive.google.com/drive/folders/18wBTug8KaPq2TH4SVcePVXZ9SBg5YlVJ?fbclid=IwAR0wG9G2LLAaM3O3X6wLgpqxfR-LARqohXf2t21X1LPas6RZiO9LAfvH1Ac))。
+- Uploaded 2021 April Fool's Project website.
+- Added zh-TW translation to 2021 website. (Translation from [葉子](https://drive.google.com/drive/folders/18wBTug8KaPq2TH4SVcePVXZ9SBg5YlVJ?fbclid=IwAR0wG9G2LLAaM3O3X6wLgpqxfR-LARqohXf2t21X1LPas6RZiO9LAfvH1Ac))
 #### 2022/04/01
-- 更新2022年的愚人節企劃網站。
+- Uploaded 2022 April Fool's Project website.
 #### 2023/04/01
-- 更新2023年的愚人節企劃網站。
-- 更新主頁，加了點設計，並做成RWD網頁。
-- 新增2021、2023英文版網頁(翻譯 from [Gochi_AI](https://github.com/gochiAI))。
+- Uploaded 2023 April Fool's Project website.
+- Updated home page, add some design, and make it into RWD page. 
+- Added EN translation to 2021 & 2023 website. (Translation from [Gochi_AI](https://github.com/gochiAI))
+- Fixed some zh-TW translation in 2021 website.（Thanks [胡地](https://home.gamer.com.tw/homeindex.php?owner=eten851229)）
 
 ---
-## 翻譯志願徵求
-- 目前僅 2021 有繁中版翻譯（抱歉我怠惰，加上我日文不好，只能把巴哈點兔板上 or FB社團「點兔騎士團」的翻譯的打進去並修飾），若有大佬可以提供翻譯，也可以主動聯繫我，我再整合進去。
+## Seeking translation volunteer (zh-TW/EN)
+- Now only 2021 website has zh-TW. And 2021 & 2023 has EN.
+- My Japanese is not great, so I only find some resources from community and key in.
+- If anyone can provide translation, you can contact me, I will integrate to this repo.
