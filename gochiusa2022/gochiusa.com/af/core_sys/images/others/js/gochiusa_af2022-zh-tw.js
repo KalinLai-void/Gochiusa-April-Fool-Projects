@@ -326,7 +326,7 @@ const tags = {
 		'		<div class="story__bg"><span><img src="'+storyImg[0].src+'"></span></div>'+
 		'		<div class="story__main">'+
 		'			<div class="story__txt">'+
-		'				我們  雖處於這狹小的世界中<br>然而  卻擁有許多空閒時間可以思考<br>但是  總是有疑問迴盪於腦海中<br><span class="blue">幸福</span>到底是什麼樣的存在呢？'+
+		'				我們  雖處於這狹小的世界中<br>然而  卻擁有許多空閒時間可以思考<br>但是  總是有疑問迴盪於腦海中<br><span class="blue">幸福</span>  到底是什麼樣的存在呢？'+
 		'			</div>'+
 		'			<div class="story__logo">'+
 		'				<img src="'+storyImg[1].src+'">'+
