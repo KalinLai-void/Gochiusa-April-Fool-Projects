@@ -40,7 +40,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2023 銀河特急ラビットハウス [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index.html) [![Link - EN](https://img.shields.io/badge/Link-EN-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index-en.html)
 
-### 2024 CLOCKWORK RABBIT THE 2nd GEAR [![Link - JP](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index.html)
+### 2024 CLOCKWORK RABBIT THE 2nd GEAR [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index.html)
 
 ---
 ## Update Log(?):
