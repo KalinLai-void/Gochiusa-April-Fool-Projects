@@ -34,6 +34,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2023 銀河特急ラビットハウス [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index.html) [![快速連結 - 英文](https://img.shields.io/badge/快速連結-英文-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index-en.html)
 
+### 2024 CLOCKWORK RABBIT THE 2nd GEAR [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index.html)
+
 ---
 ## 更新日誌(?)：
 #### 2020/04/23
@@ -52,6 +54,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - 修復早年 Twitter 頁面跑不出來的問題，並保留當年的樣子。（2020沒修）
 #### 2023/04/02
 - 新增 2022 繁中版網站 (感謝[胡地](https://home.gamer.com.tw/homeindex.php?owner=eten851229)協助翻譯)。
+#### 2024/04/01
+- 更新 2024 年的愚人節企劃網站。
 
 ---
 ## 翻譯志願徵求（繁中or英文都可）
