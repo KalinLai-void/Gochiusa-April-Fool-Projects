@@ -34,13 +34,13 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2021 Seven Rabbits Sins [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index.html) [![Link - EN](https://img.shields.io/badge/Link-EN-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-en.html)  [![Link - zh-TW](https://img.shields.io/badge/Link-zhTW-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2021/gochiusa.com/af/index-zh-tw.html)
 
-### 2022 TAKE OUT BLUE BIRD [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index.html) [![Link - zh-TW](https://img.shields.io/badge/Link-zhTW-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index-zh-tw.html)
+### 2022 TAKE OUT BLUE BIRD [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index.html) [![Link - EN](https://img.shields.io/badge/Link-EN-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index-en.html) [![Link - zh-TW](https://img.shields.io/badge/Link-zhTW-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2022/gochiusa.com/af/index-zh-tw.html)
 > It used cookies technique to store data in this year. <br>
 > If you want to run in your computer, you may set up an easy website server.
 
 ### 2023 銀河特急ラビットハウス [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index.html) [![Link - EN](https://img.shields.io/badge/Link-EN-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2023/gochiusa.com/af/index-en.html)
 
-### 2024 CLOCKWORK RABBIT THE 2nd GEAR [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index.html)
+### 2024 CLOCKWORK RABBIT THE 2nd GEAR [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index.html) [![Link - EN](https://img.shields.io/badge/Link-EN-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index-en.html)
 
 ---
 ## Update Log(?):
