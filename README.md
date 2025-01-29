@@ -62,6 +62,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - Added zh-TW translation to 2022 website. (Thanks for [胡地](https://home.gamer.com.tw/homeindex.php?owner=eten851229) help to translate)
 #### 2024/04/01
 - Uploaded 2024 April Fool's Project website.
+#### 2025/01/29
+- Added EN translation to 2022 & 2024 website. (Translation from [Gochi_AI](https://github.com/gochiAI))
 
 ---
 ## Seeking translation volunteer (zh-TW/EN)

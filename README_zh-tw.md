@@ -56,6 +56,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - 新增 2022 繁中版網站 (感謝[胡地](https://home.gamer.com.tw/homeindex.php?owner=eten851229)協助翻譯)。
 #### 2024/04/01
 - 更新 2024 年的愚人節企劃網站。
+#### 2025/01/29
+- 新增 2022、2024 英文版網頁 (翻譯 from [Gochi_AI](https://github.com/gochiAI))。
 
 ---
 ## 翻譯志願徵求（繁中or英文都可）
