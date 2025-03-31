@@ -380,7 +380,7 @@ body:not(.clearPage) #ap2025 {
 }
 
 .photo {
-  background: url(../../images/main/photo/light.html) top left 1rem/15rem no-repeat, url(../../images/main//photo/light.png) top right 1rem/15rem no-repeat, url(../../images/main//photo/chair.png) bottom 4rem right 4rem/10rem no-repeat;
+  background: url(../../images/main/photo/light.png) top left 1rem/15rem no-repeat, url(../../images/main/photo/light.png) top right 1rem/15rem no-repeat, url(../../images/main/photo/chair.png) bottom 4rem right 4rem/10rem no-repeat;
   min-height: 100vh;
   padding: 20rem 0 10rem;
 }
