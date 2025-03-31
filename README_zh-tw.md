@@ -36,6 +36,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2024 CLOCKWORK RABBIT THE 2nd GEAR [![快速連結 - 日文](https://img.shields.io/badge/快速連結-日文-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index.html)  [![快速連結 - 英文](https://img.shields.io/badge/快速連結-英文-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index-en.html) 
 
+### 2025 Maid by Rabbit [![快速連結 - 日文](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2025/gochiusa.com/af/index.html)
+
 ---
 ## 更新日誌(?)：
 #### 2020/04/23
@@ -58,6 +60,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - 更新 2024 年的愚人節企劃網站。
 #### 2025/01/29
 - 新增 2022、2024 英文版網頁 (翻譯 from [Gochi_AI](https://github.com/gochiAI))。
+#### 2025/04/01
+- 更新 2025 年的愚人節企劃網站。
 
 ---
 ## 翻譯志願徵求（繁中or英文都可）

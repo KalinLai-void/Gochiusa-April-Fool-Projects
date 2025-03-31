@@ -42,6 +42,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2024 CLOCKWORK RABBIT THE 2nd GEAR [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index.html) [![Link - EN](https://img.shields.io/badge/Link-EN-ff69b4)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2024/gochiusa.com/af/index-en.html)
 
+### 2025 Maid by Rabbit [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2025/gochiusa.com/af/index.html)
+
 ---
 ## Update Log(?):
 #### 2020/04/23
@@ -64,6 +66,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - Uploaded 2024 April Fool's Project website.
 #### 2025/01/29
 - Added EN translation to 2022 & 2024 website. (Translation from [Gochi_AI](https://github.com/gochiAI))
+#### 2025/04/01
+- Uploaded 2025 April Fool's Project website.
 
 ---
 ## Seeking translation volunteer (zh-TW/EN)
