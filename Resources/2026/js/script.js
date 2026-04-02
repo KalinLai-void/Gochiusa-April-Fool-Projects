@@ -34,6 +34,14 @@ const songData = {
     source:
       "https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/core_sys/images/main/audio/syaro.mp3",
   },
+  special: {
+    title: "Special Song",
+    artist: " ",
+    cover:
+      "https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/core_sys/images/main/wallpaper/all_sp.jpg",
+    source:
+      "https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/core_sys/images/main/audio/m3.mp3",
+  },
 };
 
 // 2. 抓取 HTML 中對應的元素
@@ -46,7 +54,9 @@ const audioSource = document.getElementById("audio-source");
 
 songSelector.addEventListener("change", function (e) {
   const selectedSongId = e.target.value;
+  console.log("Selected ID:", selectedSongId);
   const song = songData[selectedSongId];
+  console.log("Retrieved Song Data:", song);
 
   if (song) {
     songTitle.textContent = song.title;
@@ -63,6 +73,3 @@ songSelector.addEventListener("change", function (e) {
     audioPlayer.play();
   }
 });
-
-audioSource.src = songData.song1.source;
-audioPlayer.load();
