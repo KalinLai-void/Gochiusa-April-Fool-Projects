@@ -32,7 +32,6 @@
             alt=""
             class="w-full h-full object-cover rounded-lg shadow-xl shadow-surface-variant transition-all duration-500 transform group-hover:scale-[1.02]"
             id="album-art"
-            src="/"
           />
         </div>
 
@@ -58,6 +57,7 @@
               class="w-full bg-surface-container-low border-none rounded-xl py-3 md:py-4 px-4 md:px-5 appearance-none font-body text-on-surface text-sm font-semibold focus:ring-2 focus:ring-surface-variant transition-all cursor-pointer"
               id="song-selector"
             >
+              <option value="" default>--- Select songs ---</option>
               <option value="chino">
                 全天候型いらっしゃいませ — チノ（Chino）
               </option>
@@ -85,11 +85,13 @@
       </div>
     </main>
 
-    <nav
-      class="sticky bottom-0 left-0 w-full flex justify-around items-center px-4 pt-4 pb-6 bg-[#FFFFFF]/80 dark:bg-[#1A1A1A]/80 backdrop-blur-xl shadow-[0_-10px_30px_rgba(45,52,53,0.04)] z-50 rounded-t-[1.5rem]"
-    >
-      <a style="color: white" href="../../">Back</a>
-    </nav>
+    <a href="../../">
+      <nav
+        class="sticky bottom-0 left-0 w-full flex justify-around items-center px-4 pt-4 pb-6 bg-[#FFFFFF]/80 dark:bg-[#1A1A1A]/80 backdrop-blur-xl shadow-[0_-10px_30px_rgba(45,52,53,0.04)] z-50 rounded-t-[1.5rem]"
+      >
+        <p style="color: white">Back</p>
+      </nav>
+    </a>
 
     <script src="js/script.js"></script>
   </body>
