@@ -67,6 +67,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 #### 2026/04/01
 - 更新 2026 年的愚人節企劃網站（感謝 [Bertani545 的 PR](https://github.com/KalinLai-void/Gochiusa-April-Fool-Projects/pull/3)）。
 - 因為 2026 年愚人節企劃在通關後有角色音樂，故新增[音樂播放頁面](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/Resources/2026)。
+#### 2026/04/02
+- 新增 2026 遺失年愚人節企劃網站遺漏的文件與圖片 (感謝 [GaryDu0123 的 PR](https://github.com/KalinLai-void/Gochiusa-April-Fool-Projects/pull/5))
 
 ---
 ## 翻譯志願徵求（繁中or英文都可）
