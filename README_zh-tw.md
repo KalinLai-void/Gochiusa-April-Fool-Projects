@@ -79,7 +79,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&legend=top-left" />
  </picture>
-</a>
+</a><br>
 > 基本上就是每年愚人節前後漲一次 Star 數XD
 
 ---
