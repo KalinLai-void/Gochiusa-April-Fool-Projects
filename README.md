@@ -87,6 +87,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&legend=top-left" />
  </picture>
 </a>
+
 > Basically, the Star count increases around April Fools’ Day every year. lol.
 
 ---
