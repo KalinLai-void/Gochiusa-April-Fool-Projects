@@ -71,6 +71,18 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - 新增 2026 遺失年愚人節企劃網站遺漏的文件與圖片 (感謝 [GaryDu0123 的 PR](https://github.com/KalinLai-void/Gochiusa-April-Fool-Projects/pull/5))
 
 ---
+## Star History
+
+<a href="https://www.star-history.com/?repos=KalinLai-void%2FGochiusa-April-Fool-Projects&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&legend=top-left" />
+ </picture>
+</a>
+> 基本上就是每年愚人節前後漲一次 Star 數XD
+
+---
 ## 翻譯志願徵求（繁中or英文都可）
 - 目前僅有部分網站有英文及繁中翻譯。
 - 我日文不好，只能把巴哈點兔板上、FB社團「點兔騎士團」及其他網路資源的翻譯的打進去並修飾。

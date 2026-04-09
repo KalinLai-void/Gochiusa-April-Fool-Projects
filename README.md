@@ -78,6 +78,18 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - Added some miss files in 2026 April Fool's website. (Thanks for [GaryDu0123's PR](https://github.com/KalinLai-void/Gochiusa-April-Fool-Projects/pull/5))
 
 ---
+## Star History
+
+<a href="https://www.star-history.com/?repos=KalinLai-void%2FGochiusa-April-Fool-Projects&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&legend=top-left" />
+ </picture>
+</a>
+> Basically, the Star count increases around April Fools’ Day every year. lol.
+
+---
 ## Seeking translation volunteer (zh-TW/EN)
 - Now just some website have EN & zh-TW translation.
 - My Japanese is not great, so I only find some resources from community and key in.
