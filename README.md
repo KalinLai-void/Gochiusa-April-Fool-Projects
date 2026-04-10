@@ -44,7 +44,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2025 Maid by Rabbit [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2025/gochiusa.com/af/index.html)
 
-### 2026 Magical Order Rabbit [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index.html)
+### 2026 Magical Order Rabbit [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index.html) [![Link - zh-TW](https://img.shields.io/badge/Link-zhTW-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index-zh-tw.html)
 
 ---
 ## Update Log(?):
@@ -77,6 +77,9 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 #### 2026/04/02
 - Added some miss files in 2026 April Fool's website. (Thanks for [GaryDu0123's PR](https://github.com/KalinLai-void/Gochiusa-April-Fool-Projects/pull/5))
 
+#### 2026/04/10
+- Added zh-TW translation to 2026 website. (Thanks for [萊妮](https://home.gamer.com.tw/profile/index.php?owner=lenny100) help to translate)
+
 ---
 ## Star History
 
@@ -94,4 +97,4 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 ## Seeking translation volunteer (zh-TW/EN)
 - Now just some website have EN & zh-TW translation.
 - My Japanese is not great, so I only find some resources from community and key in.
-- If anyone can provide translation, you can contact me, I will integrate to this repo.
+- If anyone can provide translation, you can contact me, I will integrate & proofread to this repo.

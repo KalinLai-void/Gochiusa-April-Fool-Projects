@@ -38,7 +38,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2025 Maid by Rabbit [![快速連結 - 日文](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2025/gochiusa.com/af/index.html)
 
-### 2026 Magical Order Rabbit [![快速連結 - 日文](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index.html)
+### 2026 Magical Order Rabbit [![快速連結 - 日文](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index.html) [![快速連結 - 繁中](https://img.shields.io/badge/快速連結-繁中-active)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index-zh-tw.html)
 
 ---
 ## 更新日誌(?)：
@@ -70,6 +70,9 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 #### 2026/04/02
 - 新增 2026 遺失年愚人節企劃網站遺漏的文件與圖片 (感謝 [GaryDu0123 的 PR](https://github.com/KalinLai-void/Gochiusa-April-Fool-Projects/pull/5))
 
+#### 2026/04/10
+- 新增 2026 繁中版網站 (感謝 [萊妮](https://home.gamer.com.tw/profile/index.php?owner=lenny100) 協助翻譯)
+
 ---
 ## Star History
 
@@ -79,11 +82,12 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=KalinLai-void/Gochiusa-April-Fool-Projects&type=timeline&legend=top-left" />
  </picture>
-</a><br>
+</a>
+
 > 基本上就是每年愚人節前後漲一次 Star 數XD
 
 ---
 ## 翻譯志願徵求（繁中or英文都可）
 - 目前僅有部分網站有英文及繁中翻譯。
 - 我日文不好，只能把巴哈點兔板上、FB社團「點兔騎士團」及其他網路資源的翻譯的打進去並修飾。
-- 若有大佬可以提供翻譯，也可以主動聯繫我，我再整合進去。
+- 若有大佬可以提供翻譯，也可以主動聯繫我，我再校稿並整合進去。
